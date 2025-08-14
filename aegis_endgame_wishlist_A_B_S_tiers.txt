@@ -2424,7 +2424,7 @@ dimwishlist:item=655712834&perks=247254824,499572987
 
 //Yeartide Apex
 //notes:Aegis S Tier. Best With 'Dream Work' Origin Trait.
-dimwishlist:item=-1001759469&perks=-105455433,1176939079
+dimwishlist:item=3293207827&perks=105455433,1176939079
 dimwishlist:item=-1001759469&perks=-105455433,-339046639
 dimwishlist:item=-1001759469&perks=-105455433,492132395
 dimwishlist:item=-1001759469&perks=63549071,1176939079
