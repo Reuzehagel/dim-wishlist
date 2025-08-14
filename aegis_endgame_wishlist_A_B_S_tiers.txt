@@ -2,10 +2,10 @@ title:Aegis's Endgame Analysis -> S + A + B Tiers (good quality)
 description:Highest rated weapons from Aegis's endgame analysis spreadsheet.
 
 
-// Shotguns - 4 weapons (S + A + B Tiers (good quality))
+// Shotguns - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Perfect Paradox
-//notes:Aegis A Tier. Best With 'Cast No Shadows' Origin Trait.
+//notes:Aegis S Tier. Best With 'Cast No Shadows' Origin Trait.
 dimwishlist:item=1298672084&perks=2039655992,1765748607
 dimwishlist:item=1298672084&perks=2039655992,978539025
 dimwishlist:item=1298672084&perks=2039655992,-841433030
@@ -17,7 +17,7 @@ dimwishlist:item=1298672084&perks=247254824,978539025
 dimwishlist:item=1298672084&perks=247254824,-841433030
 
 //Unvoiced
-//notes:Aegis B Tier. Best With 'Subjugation' Origin Trait.
+//notes:Aegis S Tier. Best With 'Subjugation' Origin Trait.
 dimwishlist:item=-934029397&perks=1300954210,-1272766419
 dimwishlist:item=-934029397&perks=1300954210,-95425405
 dimwishlist:item=-934029397&perks=1300954210,-841433030
@@ -28,11 +28,140 @@ dimwishlist:item=-934029397&perks=1414940212,-1272766419
 dimwishlist:item=-934029397&perks=1414940212,-95425405
 dimwishlist:item=-934029397&perks=1414940212,-841433030
 
+//A Sudden Death
+RotN version
+//notes:Aegis S Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=1976481399&perks=-508533305,978539025
+dimwishlist:item=1976481399&perks=-508533305,1300954210
+dimwishlist:item=1976481399&perks=1765748607,978539025
+dimwishlist:item=1976481399&perks=1765748607,1300954210
 
-// Snipers - 3 weapons (S + A + B Tiers (good quality))
+//IKELOS_SG_v1.0.3
+//notes:Aegis S Tier. Best With 'Rasputin's Arsenal' Origin Trait.
+dimwishlist:item=1168625549&perks=2087376865,1765748607
+dimwishlist:item=1168625549&perks=2087376865,499572987
+dimwishlist:item=1168625549&perks=2087376865,692451869
+dimwishlist:item=1168625549&perks=247254824,1765748607
+dimwishlist:item=1168625549&perks=247254824,499572987
+dimwishlist:item=1168625549&perks=247254824,692451869
+dimwishlist:item=1168625549&perks=2039655992,1765748607
+dimwishlist:item=1168625549&perks=2039655992,499572987
+dimwishlist:item=1168625549&perks=2039655992,692451869
+
+//Until Its Return
+//notes:Aegis S Tier. Best With 'Unsated Hunger' Origin Trait.
+dimwishlist:item=-1411482835&perks=1207795635,692451869
+dimwishlist:item=-1411482835&perks=1207795635,499572987
+dimwishlist:item=-1411482835&perks=1207795635,-841433030
+dimwishlist:item=-1411482835&perks=1118505854,692451869
+dimwishlist:item=-1411482835&perks=1118505854,499572987
+dimwishlist:item=-1411482835&perks=1118505854,-841433030
+
+//Imperial Decree
+//notes:Aegis S Tier. Best With 'To Excess' Origin Trait.
+dimwishlist:item=318443586&perks=1207795635,978539025
+dimwishlist:item=318443586&perks=1207795635,499572987
+
+//Dead Weight
+//notes:Aegis A Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=-556289156&perks=2087376865,1765748607
+dimwishlist:item=-556289156&perks=2087376865,586210096
+dimwishlist:item=-556289156&perks=2087376865,499572987
+dimwishlist:item=-556289156&perks=1207795635,1765748607
+dimwishlist:item=-556289156&perks=1207795635,586210096
+dimwishlist:item=-556289156&perks=1207795635,499572987
+dimwishlist:item=-556289156&perks=1537859493,1765748607
+dimwishlist:item=-556289156&perks=1537859493,586210096
+dimwishlist:item=-556289156&perks=1537859493,499572987
+
+//Swordbreaker
+//notes:Aegis A Tier. Best With 'Cursed Thrall' Origin Trait.
+dimwishlist:item=-1131066618&perks=1199262059,1765748607
+dimwishlist:item=-1131066618&perks=2039655992,1765748607
+
+//Heritage
+//notes:Aegis A Tier. Best With 'Bray Inheritance' Origin Trait.
+dimwishlist:item=-46398054&perks=2083620761,1638503362
+dimwishlist:item=-46398054&perks=1199262059,1638503362
+
+//Pure Recollection
+//notes:Aegis A Tier. Best With 'Roar of Battle' Origin Trait.
+dimwishlist:item=1956186483&perks=1414940212,-95425405
+dimwishlist:item=1956186483&perks=1414940212,-1262906369
+dimwishlist:item=1956186483&perks=1312726537,-95425405
+dimwishlist:item=1956186483&perks=1312726537,-1262906369
+
+//Arcane Embrace
+//notes:Aegis A Tier. Best With 'Search Party' Origin Trait.
+dimwishlist:item=-644981725&perks=-158280276,1170256448
+dimwishlist:item=-644981725&perks=-158280276,499572987
+dimwishlist:item=-644981725&perks=-158280276,139007474
+dimwishlist:item=-644981725&perks=1937547168,1170256448
+dimwishlist:item=-644981725&perks=1937547168,499572987
+dimwishlist:item=-644981725&perks=1937547168,139007474
+dimwishlist:item=-644981725&perks=2087376865,1170256448
+dimwishlist:item=-644981725&perks=2087376865,499572987
+dimwishlist:item=-644981725&perks=2087376865,139007474
+
+//Wastelander M5
+//notes:Aegis A Tier. Best With 'Hot Swap' Origin Trait.
+dimwishlist:item=1679868061&perks=1537859493,1765748607
+dimwishlist:item=1679868061&perks=1537859493,-841433030
+dimwishlist:item=1679868061&perks=2039655992,1765748607
+dimwishlist:item=1679868061&perks=2039655992,-841433030
+
+//Basso Ostinato
+//notes:Aegis B Tier. Best With 'Nanotech Tracer Rockets' Origin Trait.
+dimwishlist:item=-1721066692&perks=2087376865,1765748607
+dimwishlist:item=-1721066692&perks=1537859493,1765748607
+
+//One Small Step
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=1016668089&perks=1207795635,1765748607
+dimwishlist:item=1016668089&perks=1537859493,1765748607
+
+//The Deicide
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=217140611&perks=2087376865,1765748607
+dimwishlist:item=217140611&perks=2087376865,1199262059
+dimwishlist:item=217140611&perks=1537859493,1765748607
+dimwishlist:item=217140611&perks=1537859493,1199262059
+
+//Someday
+//notes:Aegis B Tier. Best With 'Dealer's Choice' Origin Trait.
+dimwishlist:item=-1062763772&perks=1537859493,1638503362
+dimwishlist:item=-1062763772&perks=1537859493,692451869
+dimwishlist:item=-1062763772&perks=1537859493,-841433030
+dimwishlist:item=-1062763772&perks=1284715612,1638503362
+dimwishlist:item=-1062763772&perks=1284715612,692451869
+dimwishlist:item=-1062763772&perks=1284715612,-841433030
+
+//Supercluster
+//notes:Aegis B Tier. Best With 'Dragon's Vengeance' Origin Trait.
+dimwishlist:item=92459755&perks=2083620761,-841433030
+dimwishlist:item=92459755&perks=2083620761,499572987
+dimwishlist:item=92459755&perks=2083620761,692451869
+dimwishlist:item=92459755&perks=-158280276,-841433030
+dimwishlist:item=92459755&perks=-158280276,499572987
+dimwishlist:item=92459755&perks=-158280276,692451869
+
+//Retrofuturist
+//notes:Aegis B Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=1612781792&perks=1012681949,586210096
+dimwishlist:item=1612781792&perks=1012681949,-841433030
+dimwishlist:item=1612781792&perks=1012681949,978539025
+dimwishlist:item=1612781792&perks=481819342,586210096
+dimwishlist:item=1612781792&perks=481819342,-841433030
+dimwishlist:item=1612781792&perks=481819342,978539025
+dimwishlist:item=1612781792&perks=1207795635,586210096
+dimwishlist:item=1612781792&perks=1207795635,-841433030
+dimwishlist:item=1612781792&perks=1207795635,978539025
+
+
+// Snipers - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Praedyth's Revenge
-//notes:Aegis A Tier. Best With 'Timelost Magazine' Origin Trait.
+//notes:Aegis S Tier. Best With 'Timelost Magazine' Origin Trait.
 dimwishlist:item=-450357183&perks=-158280276,-95425405
 dimwishlist:item=-450357183&perks=-158280276,-1272766419
 dimwishlist:item=-450357183&perks=-158280276,890589507
@@ -44,7 +173,7 @@ dimwishlist:item=-450357183&perks=-508533305,-1272766419
 dimwishlist:item=-450357183&perks=-508533305,890589507
 
 //Lance Ephemeral
-//notes:Aegis B Tier. Best With 'Frame of Reference' Origin Trait.
+//notes:Aegis S Tier. Best With 'Frame of Reference' Origin Trait.
 dimwishlist:item=688593230&perks=-158280276,-95425405
 dimwishlist:item=688593230&perks=-158280276,-1272766419
 dimwishlist:item=688593230&perks=-158280276,1300954210
@@ -55,11 +184,140 @@ dimwishlist:item=688593230&perks=1537859493,-95425405
 dimwishlist:item=688593230&perks=1537859493,-1272766419
 dimwishlist:item=688593230&perks=1537859493,1300954210
 
+//The Supremacy
+//notes:Aegis S Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=686951703&perks=1501488052,1727533409
+dimwishlist:item=686951703&perks=1501488052,-95425405
+dimwishlist:item=686951703&perks=1501488052,-158280276
+dimwishlist:item=686951703&perks=1537859493,1727533409
+dimwishlist:item=686951703&perks=1537859493,-95425405
+dimwishlist:item=686951703&perks=1537859493,-158280276
+dimwishlist:item=686951703&perks=-508533305,1727533409
+dimwishlist:item=686951703&perks=-508533305,-95425405
+dimwishlist:item=686951703&perks=-508533305,-158280276
 
-// Fusions - 3 weapons (S + A + B Tiers (good quality))
+//Critical Anomaly
+//notes:Aegis S Tier. Best With 'Collective Purpose' Origin Trait.
+dimwishlist:item=445197843&perks=-840192665,-339046639
+dimwishlist:item=445197843&perks=1501488052,-339046639
+
+//Keen Thistle
+//notes:Aegis S Tier. Best With 'Hakke Breach Armaments' Origin Trait.
+dimwishlist:item=1893967086&perks=1414940212,-95425405
+dimwishlist:item=1893967086&perks=1414940212,-508533305
+dimwishlist:item=1893967086&perks=1414940212,-158280276
+dimwishlist:item=1893967086&perks=1176939079,-95425405
+dimwishlist:item=1893967086&perks=1176939079,-508533305
+dimwishlist:item=1893967086&perks=1176939079,-158280276
+dimwishlist:item=1893967086&perks=2007585037,-95425405
+dimwishlist:item=1893967086&perks=2007585037,-508533305
+dimwishlist:item=1893967086&perks=2007585037,-158280276
+
+//Succession
+BRAVE version
+//BRAVE version
+//notes:Aegis S Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=570866107&perks=2083620761,1638503362
+dimwishlist:item=570866107&perks=2083620761,-841433030
+dimwishlist:item=570866107&perks=2083620761,1300954210
+dimwishlist:item=570866107&perks=1199262059,1638503362
+dimwishlist:item=570866107&perks=1199262059,-841433030
+dimwishlist:item=570866107&perks=1199262059,1300954210
+dimwishlist:item=570866107&perks=-508533305,1638503362
+dimwishlist:item=570866107&perks=-508533305,-841433030
+dimwishlist:item=570866107&perks=-508533305,1300954210
+
+//Succession
+//notes:Aegis A Tier. Best With 'Bray Inheritance' Origin Trait.
+dimwishlist:item=570866107&perks=2083620761,1638503362
+dimwishlist:item=570866107&perks=2083620761,-841433030
+dimwishlist:item=570866107&perks=2083620761,1130093452
+dimwishlist:item=570866107&perks=1199262059,1638503362
+dimwishlist:item=570866107&perks=1199262059,-841433030
+dimwishlist:item=570866107&perks=1199262059,1130093452
+
+//Omniscient Eye
+//notes:Aegis A Tier. Best With 'Photoinhibition' Origin Trait.
+dimwishlist:item=147444292&perks=-158280276,1170256448
+dimwishlist:item=147444292&perks=-158280276,-841433030
+dimwishlist:item=147444292&perks=1414940212,1170256448
+dimwishlist:item=147444292&perks=1414940212,-841433030
+
+//Irukandji
+//notes:Aegis A Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=-1621041893&perks=-158280276,-410565797
+dimwishlist:item=-1621041893&perks=-264006064,-410565797
+
+//Veleda-F
+//notes:Aegis A Tier. Best With 'Hakke Breach Armaments' Origin Trait.
+dimwishlist:item=-94844302&perks=1937547168,-1262906369
+dimwishlist:item=-94844302&perks=481819342,-1262906369
+
+//Sovereignty
+//notes:Aegis A Tier. Best With 'Dark Ether Reaper' Origin Trait.
+dimwishlist:item=-476768740&perks=1199262059,-1262906369
+dimwishlist:item=-476768740&perks=18293965,-1262906369
+
+//Distant Tumulus
+//notes:Aegis A Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-1487280140&perks=-1792473641,-410565797
+dimwishlist:item=-1487280140&perks=1537859493,-410565797
+
+//Twilight Oath
+//notes:Aegis B Tier. Best With 'Advanced Reflexes' Origin Trait.
+dimwishlist:item=1874424704&perks=609540172,-841433030
+dimwishlist:item=1874424704&perks=609540172,1170256448
+dimwishlist:item=1874424704&perks=609540172,1626629712
+
+//IKELOS_SR_v1.0.3
+//notes:Aegis B Tier. Best With 'Rasputin's Arsenal' Origin Trait.
+dimwishlist:item=-1992621141&perks=-158280276,-790033859
+
+//Naeem's Lance
+//notes:Aegis B Tier. Best With 'Sundering' Origin Trait.
+dimwishlist:item=-1488397471&perks=2083620761,1170256448
+dimwishlist:item=-1488397471&perks=2083620761,1626629712
+dimwishlist:item=-1488397471&perks=-508533305,1170256448
+dimwishlist:item=-1488397471&perks=-508533305,1626629712
+
+//Embraced Identity
+//notes:Aegis B Tier. Best With 'Dealer's Choice' Origin Trait.
+dimwishlist:item=-1473289928&perks=2083620761,1300954210
+dimwishlist:item=-1473289928&perks=2083620761,-158280276
+dimwishlist:item=-1473289928&perks=2083620761,1626629712
+dimwishlist:item=-1473289928&perks=1501488052,1300954210
+dimwishlist:item=-1473289928&perks=1501488052,-158280276
+dimwishlist:item=-1473289928&perks=1501488052,1626629712
+dimwishlist:item=-1473289928&perks=63549071,1300954210
+dimwishlist:item=-1473289928&perks=63549071,-158280276
+dimwishlist:item=-1473289928&perks=63549071,1626629712
+
+//Uzume RR4
+//notes:Aegis B Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=2065081837&perks=-158280276,1170256448
+dimwishlist:item=2065081837&perks=-158280276,-594616015
+dimwishlist:item=2065081837&perks=-158280276,-841433030
+dimwishlist:item=2065081837&perks=-508533305,1170256448
+dimwishlist:item=2065081837&perks=-508533305,-594616015
+dimwishlist:item=2065081837&perks=-508533305,-841433030
+dimwishlist:item=2065081837&perks=63549071,1170256448
+dimwishlist:item=2065081837&perks=63549071,-594616015
+dimwishlist:item=2065081837&perks=63549071,-841433030
+
+//Fugue-55
+//notes:Aegis B Tier. Best With 'Suros Synergy' Origin Trait.
+dimwishlist:item=-2061422173&perks=-158280276,-410565797
+dimwishlist:item=-2061422173&perks=-158280276,-841433030
+dimwishlist:item=-2061422173&perks=1207795635,-410565797
+dimwishlist:item=-2061422173&perks=1207795635,-841433030
+dimwishlist:item=-2061422173&perks=1537859493,-410565797
+dimwishlist:item=-2061422173&perks=1537859493,-841433030
+
+
+// Fusions - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Lionfish-4fr
-//notes:Aegis A Tier. Best With 'Problem Solver' Origin Trait.
+//notes:Aegis S Tier. Best With 'Problem Solver' Origin Trait.
 dimwishlist:item=-1871895315&perks=2083620761,-840192665
 dimwishlist:item=-1871895315&perks=2083620761,771047218
 dimwishlist:item=-1871895315&perks=2083620761,-1272766419
@@ -68,15 +326,140 @@ dimwishlist:item=-1871895315&perks=1537859493,771047218
 dimwishlist:item=-1871895315&perks=1537859493,-1272766419
 
 //Scatter Signal
-//notes:Aegis B Tier. Best With 'Dragon's Vengeance' Origin Trait.
+//notes:Aegis S Tier. Best With 'Dragon's Vengeance' Origin Trait.
 dimwishlist:item=-1736041930&perks=1118505854,771047218
 dimwishlist:item=-1736041930&perks=-1273651019,771047218
 
+//Finite Maybe
+//notes:Aegis S Tier. Best With 'Frame of Reference' Origin Trait.
+dimwishlist:item=-1053749887&perks=2083620761,-95425405
+dimwishlist:item=-1053749887&perks=2083620761,771047218
+dimwishlist:item=-1053749887&perks=2083620761,-508533305
+dimwishlist:item=-1053749887&perks=1176939079,-95425405
+dimwishlist:item=-1053749887&perks=1176939079,771047218
+dimwishlist:item=-1053749887&perks=1176939079,-508533305
 
-// BGLs - 4 weapons (S + A + B Tiers (good quality))
+//Riptide
+//notes:Aegis S Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=-1579726818&perks=1207795635,-840192665
+dimwishlist:item=-1579726818&perks=1207795635,586210096
+dimwishlist:item=-1579726818&perks=1207795635,1199262059
+dimwishlist:item=-1579726818&perks=1537859493,-840192665
+dimwishlist:item=-1579726818&perks=1537859493,586210096
+dimwishlist:item=-1579726818&perks=1537859493,1199262059
+dimwishlist:item=-1579726818&perks=-541558028,-840192665
+dimwishlist:item=-1579726818&perks=-541558028,586210096
+dimwishlist:item=-1579726818&perks=-541558028,1199262059
+
+//Zealot's Reward
+//notes:Aegis S Tier. Best With 'Photoinhibition' Origin Trait.
+dimwishlist:item=-1574315597&perks=1207795635,771047218
+dimwishlist:item=-1574315597&perks=1207795635,-293100805
+dimwishlist:item=-1574315597&perks=1537859493,771047218
+dimwishlist:item=-1574315597&perks=1537859493,-293100805
+dimwishlist:item=-1574315597&perks=922778834,771047218
+dimwishlist:item=-1574315597&perks=922778834,-293100805
+
+//Royal Executioner
+//notes:Aegis S Tier. Best With 'Noble Deeds' Origin Trait.
+dimwishlist:item=1720503118&perks=609540172,-293100805
+dimwishlist:item=1720503118&perks=609540172,1176939079
+dimwishlist:item=1720503118&perks=1537859493,-293100805
+dimwishlist:item=1720503118&perks=1537859493,1176939079
+
+//Glacioclasm
+//notes:Aegis A Tier. Best With 'Dawning Surprise' Origin Trait.
+dimwishlist:item=1183116657&perks=609540172,771047218
+dimwishlist:item=1183116657&perks=609540172,-293100805
+dimwishlist:item=1183116657&perks=609540172,-1262906369
+dimwishlist:item=1183116657&perks=1938173835,771047218
+dimwishlist:item=1183116657&perks=1938173835,-293100805
+dimwishlist:item=1183116657&perks=1938173835,-1262906369
+dimwishlist:item=1183116657&perks=1937547168,771047218
+dimwishlist:item=1183116657&perks=1937547168,-293100805
+dimwishlist:item=1183116657&perks=1937547168,-1262906369
+
+//Techeun Force
+//notes:Aegis A Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=-200310188&perks=1501488052,771047218
+
+//Afterlight
+//notes:Aegis A Tier. Best With 'Willing Vessel' Origin Trait.
+dimwishlist:item=1834313033&perks=-508533305,-293100805
+dimwishlist:item=1834313033&perks=-508533305,922778834
+dimwishlist:item=1834313033&perks=-508533305,-841433030
+dimwishlist:item=1834313033&perks=1537859493,-293100805
+dimwishlist:item=1834313033&perks=1537859493,922778834
+dimwishlist:item=1834313033&perks=1537859493,-841433030
+dimwishlist:item=1834313033&perks=2087376865,-293100805
+dimwishlist:item=1834313033&perks=2087376865,922778834
+dimwishlist:item=1834313033&perks=2087376865,-841433030
+
+//PLUG ONE.1
+//notes:Aegis A Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=1289000550&perks=2083620761,-293100805
+dimwishlist:item=1289000550&perks=2083620761,771047218
+dimwishlist:item=1289000550&perks=2083620761,139007474
+dimwishlist:item=1289000550&perks=392152825,-293100805
+dimwishlist:item=1289000550&perks=392152825,771047218
+dimwishlist:item=1289000550&perks=392152825,139007474
+
+//Axial Lacuna
+//notes:Aegis A Tier. Best With 'Dealer's Choice' Origin Trait.
+dimwishlist:item=-427593945&perks=2083620761,771047218
+dimwishlist:item=-427593945&perks=2083620761,499572987
+dimwishlist:item=-427593945&perks=1199262059,771047218
+dimwishlist:item=-427593945&perks=1199262059,499572987
+dimwishlist:item=-427593945&perks=1104037689,771047218
+dimwishlist:item=-427593945&perks=1104037689,499572987
+
+//Cartesian Coordinate
+//notes:Aegis A Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-1792544524&perks=1537859493,-841433030
+
+//VS Gravitic Arrest
+//notes:Aegis B Tier. Best With 'Bray Legacy' Origin Trait.
+dimwishlist:item=93061497&perks=1199262059,-1262906369
+
+//Loaded Question
+//notes:Aegis B Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=580961571&perks=609540172,771047218
+dimwishlist:item=580961571&perks=609540172,-293100805
+dimwishlist:item=580961571&perks=1118505854,771047218
+dimwishlist:item=580961571&perks=1118505854,-293100805
+dimwishlist:item=580961571&perks=1199262059,771047218
+dimwishlist:item=580961571&perks=1199262059,-293100805
+
+//The Eremite
+//notes:Aegis B Tier. Best With 'Head Rush' Origin Trait.
+dimwishlist:item=-947020748&perks=609540172,771047218
+dimwishlist:item=-947020748&perks=609540172,-293100805
+dimwishlist:item=-947020748&perks=1537859493,771047218
+dimwishlist:item=-947020748&perks=1537859493,-293100805
+
+//Nox Perennial V
+//notes:Aegis B Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=-1527573771&perks=609540172,771047218
+dimwishlist:item=-1527573771&perks=1537859493,771047218
+
+//Cruoris FR4
+//notes:Aegis B Tier. Best With 'Omolon Fluid Dynamics' Origin Trait.
+dimwishlist:item=891996636&perks=-508533305,-1272766419
+dimwishlist:item=891996636&perks=-508533305,-20743621
+dimwishlist:item=891996636&perks=-508533305,1314569399
+dimwishlist:item=891996636&perks=-1792473641,-1272766419
+dimwishlist:item=891996636&perks=-1792473641,-20743621
+dimwishlist:item=891996636&perks=-1792473641,1314569399
+
+//Deliverance
+//notes:Aegis B Tier. Best With 'Souldrinker' Origin Trait.
+dimwishlist:item=768621510&perks=1199262059,-840192665
+
+
+// BGLs - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //VS Velocity Baton
-//notes:Aegis A Tier. Best With 'Bray Legacy' Origin Trait.
+//notes:Aegis S Tier. Best With 'Bray Legacy' Origin Trait.
 dimwishlist:item=1762785663&perks=132891359,922778834
 dimwishlist:item=1762785663&perks=132891359,63549071
 dimwishlist:item=1762785663&perks=1199262059,922778834
@@ -84,7 +467,8 @@ dimwishlist:item=1762785663&perks=1199262059,63549071
 
 //The Mountaintop
 BRAVE version
-//notes:Aegis B Tier. Best With 'Indomitability' Origin Trait.
+//BRAVE version
+//notes:Aegis S Tier. Best With 'Indomitability' Origin Trait.
 dimwishlist:item=568611922&perks=1207795635,1638503362
 dimwishlist:item=568611922&perks=1207795635,-841433030
 dimwishlist:item=568611922&perks=1207795635,586210096
@@ -95,11 +479,159 @@ dimwishlist:item=568611922&perks=1118505854,1638503362
 dimwishlist:item=568611922&perks=1118505854,-841433030
 dimwishlist:item=568611922&perks=1118505854,586210096
 
+//Festival Flight
+//notes:Aegis S Tier. Best With 'Dream Work' Origin Trait.
+dimwishlist:item=-275315977&perks=1414940212,-1272766419
+dimwishlist:item=-275315977&perks=1414940212,1314569399
+dimwishlist:item=-275315977&perks=1414940212,63549071
+dimwishlist:item=-275315977&perks=863795663,-1272766419
+dimwishlist:item=-275315977&perks=863795663,1314569399
+dimwishlist:item=-275315977&perks=863795663,63549071
+dimwishlist:item=-275315977&perks=-1273651019,-1272766419
+dimwishlist:item=-275315977&perks=-1273651019,1314569399
+dimwishlist:item=-275315977&perks=-1273651019,63549071
 
-// Glaives - 3 weapons (S + A + B Tiers (good quality))
+//Theodolite
+//notes:Aegis S Tier. Best With 'Problem Solver' Origin Trait.
+dimwishlist:item=-148293661&perks=2083620761,-1272766419
+dimwishlist:item=-148293661&perks=2083620761,1617386463
+dimwishlist:item=-148293661&perks=2083620761,586210096
+dimwishlist:item=-148293661&perks=-1049185532,-1272766419
+dimwishlist:item=-148293661&perks=-1049185532,1617386463
+dimwishlist:item=-148293661&perks=-1049185532,586210096
+
+//Psychopomp
+//notes:Aegis S Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=-266668404&perks=1414940212,-1272766419
+dimwishlist:item=-266668404&perks=1414940212,586210096
+dimwishlist:item=-266668404&perks=1414940212,-20743621
+dimwishlist:item=-266668404&perks=402655312,-1272766419
+dimwishlist:item=-266668404&perks=402655312,586210096
+dimwishlist:item=-266668404&perks=402655312,-20743621
+dimwishlist:item=-266668404&perks=2039655992,-1272766419
+dimwishlist:item=-266668404&perks=2039655992,586210096
+dimwishlist:item=-266668404&perks=2039655992,-20743621
+
+//Lost Signal
+//notes:Aegis S Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=1197771438&perks=1207795635,-841433030
+dimwishlist:item=1197771438&perks=1207795635,1199262059
+dimwishlist:item=1197771438&perks=1207795635,1314569399
+dimwishlist:item=1197771438&perks=1537859493,-841433030
+dimwishlist:item=1197771438&perks=1537859493,1199262059
+dimwishlist:item=1197771438&perks=1537859493,1314569399
+
+//Liturgy
+//notes:Aegis A Tier. Best With 'Dark Ether Reaper' Origin Trait.
+dimwishlist:item=-1695628672&perks=1414940212,-840192665
+dimwishlist:item=-1695628672&perks=1414940212,1537859493
+dimwishlist:item=-1695628672&perks=1414940212,1584429898
+dimwishlist:item=-1695628672&perks=392152825,-840192665
+dimwishlist:item=-1695628672&perks=392152825,1537859493
+dimwishlist:item=-1695628672&perks=392152825,1584429898
+
+//Wilderflight
+RotN version
+//notes:Aegis A Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=1206729100&perks=1414940212,-95425405
+dimwishlist:item=1206729100&perks=1414940212,1537859493
+dimwishlist:item=1206729100&perks=1414940212,586210096
+dimwishlist:item=1206729100&perks=1207795635,-95425405
+dimwishlist:item=1206729100&perks=1207795635,1537859493
+dimwishlist:item=1206729100&perks=1207795635,586210096
+dimwishlist:item=1206729100&perks=1199262059,-95425405
+dimwishlist:item=1206729100&perks=1199262059,1537859493
+dimwishlist:item=1206729100&perks=1199262059,586210096
+
+//Martyr's Retribution
+//notes:Aegis A Tier. Best With 'Cast No Shadows' Origin Trait.
+dimwishlist:item=-444798397&perks=-105455433,1176939079
+dimwishlist:item=-444798397&perks=-105455433,-45290624
+dimwishlist:item=-444798397&perks=-105455433,-164231382
+dimwishlist:item=-444798397&perks=1199262059,1176939079
+dimwishlist:item=-444798397&perks=1199262059,-45290624
+dimwishlist:item=-444798397&perks=1199262059,-164231382
+dimwishlist:item=-444798397&perks=1207795635,1176939079
+dimwishlist:item=-444798397&perks=1207795635,-45290624
+dimwishlist:item=-444798397&perks=1207795635,-164231382
+
+//Forbearance
+//notes:Aegis A Tier. Best With 'Souldrinker' Origin Trait.
+dimwishlist:item=613334176&perks=402655312,1584429898
+dimwishlist:item=613334176&perks=402655312,1706638886
+dimwishlist:item=613334176&perks=2067877643,1584429898
+dimwishlist:item=613334176&perks=2067877643,1706638886
+
+//New Pacific Epitaph
+RotN version
+//notes:Aegis A Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=2059741649&perks=1199262059,1300954210
+dimwishlist:item=2059741649&perks=1199262059,1584429898
+dimwishlist:item=2059741649&perks=1414940212,1300954210
+dimwishlist:item=2059741649&perks=1414940212,1584429898
+dimwishlist:item=2059741649&perks=1537859493,1300954210
+dimwishlist:item=2059741649&perks=1537859493,1584429898
+
+//Forbearance
+BRAVE version
+//BRAVE version
+//notes:Aegis A Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=613334176&perks=402655312,1584429898
+dimwishlist:item=613334176&perks=402655312,-164231382
+dimwishlist:item=613334176&perks=402655312,1706638886
+dimwishlist:item=613334176&perks=1199262059,1584429898
+dimwishlist:item=613334176&perks=1199262059,-164231382
+dimwishlist:item=613334176&perks=1199262059,1706638886
+dimwishlist:item=613334176&perks=2067877643,1584429898
+dimwishlist:item=613334176&perks=2067877643,-164231382
+dimwishlist:item=613334176&perks=2067877643,1706638886
+
+//Wild Style
+//notes:Aegis B Tier. Best With 'Tex Balanced Stock' Origin Trait.
+dimwishlist:item=1332123064&perks=2083620761,-95425405
+dimwishlist:item=1332123064&perks=2083620761,-841433030
+
+//Wilderflight
+//notes:Aegis B Tier. Best With 'Tex Balanced Stock' Origin Trait.
+dimwishlist:item=1206729100&perks=1207795635,-841433030
+dimwishlist:item=1206729100&perks=1207795635,586210096
+dimwishlist:item=1206729100&perks=1207795635,1537859493
+dimwishlist:item=1206729100&perks=1199262059,-841433030
+dimwishlist:item=1206729100&perks=1199262059,586210096
+dimwishlist:item=1206729100&perks=1199262059,1537859493
+
+//Tusk of the Boar
+//notes:Aegis B Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=1218113510&perks=392152825,1584429898
+dimwishlist:item=1218113510&perks=392152825,-594616015
+dimwishlist:item=1218113510&perks=-1273651019,1584429898
+dimwishlist:item=1218113510&perks=-1273651019,-594616015
+
+//The Militia's Birthright
+//notes:Aegis B Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=1854753405&perks=1537859493,1207795635
+dimwishlist:item=1854753405&perks=1537859493,586210096
+dimwishlist:item=1854753405&perks=392152825,1207795635
+dimwishlist:item=1854753405&perks=392152825,586210096
+
+//New Pacific Epitaph
+//notes:Aegis B Tier. Best With 'Restoration Ritual' Origin Trait.
+dimwishlist:item=2059741649&perks=1199262059,1300954210
+dimwishlist:item=2059741649&perks=1199262059,-45290624
+dimwishlist:item=2059741649&perks=1537859493,1300954210
+dimwishlist:item=2059741649&perks=1537859493,-45290624
+dimwishlist:item=2059741649&perks=2067877643,1300954210
+dimwishlist:item=2059741649&perks=2067877643,-45290624
+
+//Explosive Personality
+//notes:Aegis B Tier. Best With 'Land Tank' Origin Trait.
+dimwishlist:item=-198023680&perks=1207795635,586210096
+
+
+// Glaives - 13 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Rake Angle
-//notes:Aegis A Tier. Best With 'Stunning Recovery' Origin Trait.
+//notes:Aegis S Tier. Best With 'Stunning Recovery' Origin Trait.
 dimwishlist:item=-1996927725&perks=1118505854,-840192665
 dimwishlist:item=-1996927725&perks=1118505854,1777668990
 dimwishlist:item=-1996927725&perks=1458185467,-840192665
@@ -108,7 +640,7 @@ dimwishlist:item=-1996927725&perks=1537859493,-840192665
 dimwishlist:item=-1996927725&perks=1537859493,1777668990
 
 //Forthcoming Deviance
-//notes:Aegis B Tier. Best With 'Collective Purpose' Origin Trait.
+//notes:Aegis S Tier. Best With 'Collective Purpose' Origin Trait.
 dimwishlist:item=535198113&perks=1458185467,1777668990
 dimwishlist:item=535198113&perks=1458185467,-339046639
 dimwishlist:item=535198113&perks=1458185467,1584429898
@@ -119,11 +651,104 @@ dimwishlist:item=535198113&perks=1199262059,1777668990
 dimwishlist:item=535198113&perks=1199262059,-339046639
 dimwishlist:item=535198113&perks=1199262059,1584429898
 
+//Greasy Luck
+RotN version
+//notes:Aegis S Tier. Best With 'Restoration Ritual' Origin Trait.
+dimwishlist:item=1757202961&perks=2083620761,1176939079
+dimwishlist:item=1757202961&perks=2083620761,1300954210
+dimwishlist:item=1757202961&perks=2083620761,1777668990
+dimwishlist:item=1757202961&perks=1537859493,1176939079
+dimwishlist:item=1757202961&perks=1537859493,1300954210
+dimwishlist:item=1757202961&perks=1537859493,1777668990
+dimwishlist:item=1757202961&perks=-105455433,1176939079
+dimwishlist:item=1757202961&perks=-105455433,1300954210
+dimwishlist:item=1757202961&perks=-105455433,1777668990
 
-// Traces - 3 weapons (S + A + B Tiers (good quality))
+//Greasy Luck
+//notes:Aegis S Tier. Best With 'Restoration Ritual' Origin Trait.
+dimwishlist:item=1757202961&perks=1537859493,1176939079
+dimwishlist:item=1757202961&perks=1537859493,1300954210
+dimwishlist:item=1757202961&perks=1537859493,1777668990
+dimwishlist:item=1757202961&perks=1458185467,1176939079
+dimwishlist:item=1757202961&perks=1458185467,1300954210
+dimwishlist:item=1757202961&perks=1458185467,1777668990
+
+//Unexpected Resurgence
+//notes:Aegis S Tier. Best With 'Alacrity' Origin Trait.
+dimwishlist:item=-289186718&perks=1207795635,586210096
+dimwishlist:item=-289186718&perks=1207795635,1777668990
+dimwishlist:item=-289186718&perks=1207795635,139007474
+dimwishlist:item=-289186718&perks=1458185467,586210096
+dimwishlist:item=-289186718&perks=1458185467,1777668990
+dimwishlist:item=-289186718&perks=1458185467,139007474
+
+//Nezarec's Whisper
+//notes:Aegis S Tier. Best With 'Extrovert' Origin Trait.
+dimwishlist:item=254636484&perks=1199262059,586210096
+dimwishlist:item=254636484&perks=1458185467,586210096
+dimwishlist:item=254636484&perks=1537859493,586210096
+
+//Backfang
+//notes:Aegis A Tier. Best With 'Gun and Run' Origin Trait.
+dimwishlist:item=267672635&perks=1458185467,499572987
+dimwishlist:item=267672635&perks=1458185467,1777668990
+dimwishlist:item=267672635&perks=1458185467,139007474
+dimwishlist:item=267672635&perks=2087376865,499572987
+dimwishlist:item=267672635&perks=2087376865,1777668990
+dimwishlist:item=267672635&perks=2087376865,139007474
+dimwishlist:item=267672635&perks=1537859493,499572987
+dimwishlist:item=267672635&perks=1537859493,1777668990
+dimwishlist:item=267672635&perks=1537859493,139007474
+
+//Refusal of the Call
+//notes:Aegis A Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=-1025569233&perks=-508533305,1777668990
+dimwishlist:item=-1025569233&perks=-508533305,747462524
+dimwishlist:item=-1025569233&perks=1458185467,1777668990
+dimwishlist:item=-1025569233&perks=1458185467,747462524
+dimwishlist:item=-1025569233&perks=-1273651019,1777668990
+dimwishlist:item=-1025569233&perks=-1273651019,747462524
+
+//Albedo Wing
+//notes:Aegis A Tier. Best With 'Dawning Surprise' Origin Trait.
+dimwishlist:item=1845372864&perks=1937547168,1537859493
+dimwishlist:item=1845372864&perks=1937547168,1199262059
+dimwishlist:item=1845372864&perks=1937547168,1777668990
+dimwishlist:item=1845372864&perks=2087376865,1537859493
+dimwishlist:item=1845372864&perks=2087376865,1199262059
+dimwishlist:item=1845372864&perks=2087376865,1777668990
+
+//The Enigma
+//notes:Aegis A Tier. Best With 'Psychohack' Origin Trait.
+dimwishlist:item=-1699469560&perks=1458185467,586210096
+
+//Judgment of Kelgorath
+//notes:Aegis A Tier. Best With 'Ambush' Origin Trait.
+dimwishlist:item=-1316741253&perks=1118505854,1777668990
+dimwishlist:item=-1316741253&perks=1118505854,530055977
+dimwishlist:item=-1316741253&perks=1118505854,1458185467
+dimwishlist:item=-1316741253&perks=1199262059,1777668990
+dimwishlist:item=-1316741253&perks=1199262059,530055977
+dimwishlist:item=-1316741253&perks=1199262059,1458185467
+dimwishlist:item=-1316741253&perks=-337831695,1777668990
+dimwishlist:item=-1316741253&perks=-337831695,530055977
+dimwishlist:item=-1316741253&perks=-337831695,1458185467
+
+//Ecliptic Distaff
+//notes:Aegis A Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=-1293761872&perks=-337831695,1777668990
+dimwishlist:item=-1293761872&perks=1342652139,1777668990
+
+//Lubrae's Ruin
+//notes:Aegis B Tier. Best With 'Souldrinker' Origin Trait.
+dimwishlist:item=-1760421149&perks=-337831695,530055977
+dimwishlist:item=-1760421149&perks=744741393,530055977
+
+
+// Traces - 11 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Chronophage
-//notes:Aegis A Tier. Best With 'Radiolaria Transposer' Origin Trait.
+//notes:Aegis S Tier. Best With 'Radiolaria Transposer' Origin Trait.
 dimwishlist:item=1886840007&perks=-264006064,922778834
 dimwishlist:item=1886840007&perks=-264006064,1199262059
 dimwishlist:item=1886840007&perks=-264006064,-164231382
@@ -132,7 +757,7 @@ dimwishlist:item=1886840007&perks=132891359,1199262059
 dimwishlist:item=1886840007&perks=132891359,-164231382
 
 //Unsworn
-//notes:Aegis B Tier. Best With 'Subjugation' Origin Trait.
+//notes:Aegis S Tier. Best With 'Subjugation' Origin Trait.
 dimwishlist:item=1303313141&perks=-264006064,1977017283
 dimwishlist:item=1303313141&perks=-264006064,-1272766419
 dimwishlist:item=1303313141&perks=-264006064,1845216242
@@ -143,11 +768,76 @@ dimwishlist:item=1303313141&perks=1501488052,1977017283
 dimwishlist:item=1303313141&perks=1501488052,-1272766419
 dimwishlist:item=1303313141&perks=1501488052,1845216242
 
+//Retraced Path
+//notes:Aegis S Tier. Best With 'Hot Swap' Origin Trait.
+dimwishlist:item=548958835&perks=-264006064,1199262059
+dimwishlist:item=548958835&perks=-264006064,586210096
+dimwishlist:item=548958835&perks=-264006064,1176939079
 
-// Rocket Sidearms - 3 weapons (S + A + B Tiers (good quality))
+//Path of Least Resistance
+//notes:Aegis S Tier. Best With 'Ambush' Origin Trait.
+dimwishlist:item=-1467202814&perks=-264006064,139007474
+
+//Keraunios
+//notes:Aegis S Tier. Best With 'Classy Contender' Origin Trait.
+dimwishlist:item=2029899814&perks=2007585037,1977017283
+dimwishlist:item=2029899814&perks=2007585037,619868206
+dimwishlist:item=2029899814&perks=2007585037,-20743621
+dimwishlist:item=2029899814&perks=1118505854,1977017283
+dimwishlist:item=2029899814&perks=1118505854,619868206
+dimwishlist:item=2029899814&perks=1118505854,-20743621
+dimwishlist:item=2029899814&perks=1058805188,1977017283
+dimwishlist:item=2029899814&perks=1058805188,619868206
+dimwishlist:item=2029899814&perks=1058805188,-20743621
+
+//Warlord's Spear
+//notes:Aegis S Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=1968711238&perks=1501488052,1977017283
+dimwishlist:item=1968711238&perks=1501488052,619868206
+dimwishlist:item=1968711238&perks=1501488052,-164231382
+dimwishlist:item=1968711238&perks=1772095958,1977017283
+dimwishlist:item=1968711238&perks=1772095958,619868206
+dimwishlist:item=1968711238&perks=1772095958,-164231382
+
+//Incisor
+//notes:Aegis A Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=1711056134&perks=-1273651019,63549071
+dimwishlist:item=1711056134&perks=-1273651019,1845216242
+
+//Appetence
+//notes:Aegis A Tier. Best With 'Dragon's Vengeance' Origin Trait.
+dimwishlist:item=-141880020&perks=1199262059,-925330387
+dimwishlist:item=-141880020&perks=1199262059,-594616015
+dimwishlist:item=-141880020&perks=1199262059,63549071
+dimwishlist:item=-141880020&perks=1118505854,-925330387
+dimwishlist:item=-141880020&perks=1118505854,-594616015
+dimwishlist:item=-141880020&perks=1118505854,63549071
+
+//Hollow Denial
+//notes:Aegis A Tier. Best With 'Extrovert' Origin Trait.
+dimwishlist:item=-1971423220&perks=1537859493,132891359
+
+//Acasia's Dejection
+//notes:Aegis A Tier. Best With 'Harmonic Resonance' Origin Trait.
+dimwishlist:item=1471212226&perks=2083620761,586210096
+dimwishlist:item=1471212226&perks=2083620761,1176939079
+dimwishlist:item=1471212226&perks=-541558028,586210096
+dimwishlist:item=1471212226&perks=-541558028,1176939079
+
+//Ribbontail
+//notes:Aegis A Tier. Best With 'Tenacity' Origin Trait.
+dimwishlist:item=407150811&perks=1414940212,1977017283
+dimwishlist:item=407150811&perks=1414940212,1637062097
+dimwishlist:item=407150811&perks=1414940212,1300954210
+dimwishlist:item=407150811&perks=1706638886,1977017283
+dimwishlist:item=407150811&perks=1706638886,1637062097
+dimwishlist:item=407150811&perks=1706638886,1300954210
+
+
+// Rocket Sidearms - 6 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Returned Memory
-//notes:Aegis A Tier. Best With 'Wild Card' Origin Trait.
+//notes:Aegis S Tier. Best With 'Wild Card' Origin Trait.
 dimwishlist:item=-245840154&perks=-105455433,1176939079
 dimwishlist:item=-245840154&perks=-105455433,1300954210
 dimwishlist:item=-245840154&perks=-105455433,-164231382
@@ -159,15 +849,60 @@ dimwishlist:item=-245840154&perks=420666599,1300954210
 dimwishlist:item=-245840154&perks=420666599,-164231382
 
 //Aberrant Action
-//notes:Aegis B Tier. Best With 'Radiolaria Transposer' Origin Trait.
+//notes:Aegis S Tier. Best With 'Radiolaria Transposer' Origin Trait.
 dimwishlist:item=-2096801004&perks=-105455433,1176939079
 dimwishlist:item=-2096801004&perks=-541558028,1176939079
 
+//Lotus-Eater
+//notes:Aegis S Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=-372750177&perks=132891359,922778834
+dimwishlist:item=-372750177&perks=132891359,-1262906369
+dimwishlist:item=-372750177&perks=132891359,1314569399
+dimwishlist:item=-372750177&perks=2083620761,922778834
+dimwishlist:item=-372750177&perks=2083620761,-1262906369
+dimwishlist:item=-372750177&perks=2083620761,1314569399
+dimwishlist:item=-372750177&perks=-264006064,922778834
+dimwishlist:item=-372750177&perks=-264006064,-1262906369
+dimwishlist:item=-372750177&perks=-264006064,1314569399
 
-// LMGs - 3 weapons (S + A + B Tiers (good quality))
+//Tinasha's Mastery
+//notes:Aegis S Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=480368036&perks=1937547168,-840192665
+dimwishlist:item=480368036&perks=1937547168,499572987
+dimwishlist:item=480368036&perks=1937547168,-164231382
+dimwishlist:item=480368036&perks=1458185467,-840192665
+dimwishlist:item=480368036&perks=1458185467,499572987
+dimwishlist:item=480368036&perks=1458185467,-164231382
+dimwishlist:item=480368036&perks=1772095958,-840192665
+dimwishlist:item=480368036&perks=1772095958,499572987
+dimwishlist:item=480368036&perks=1772095958,-164231382
+
+//Indebted Kindness
+//notes:Aegis S Tier. Best With 'Sundering' Origin Trait.
+dimwishlist:item=-913516798&perks=1458185467,139007474
+dimwishlist:item=-913516798&perks=1458185467,499572987
+dimwishlist:item=-913516798&perks=1458185467,-386289453
+dimwishlist:item=-913516798&perks=1537859493,139007474
+dimwishlist:item=-913516798&perks=1537859493,499572987
+dimwishlist:item=-913516798&perks=1537859493,-386289453
+
+//The Call
+//notes:Aegis S Tier. Best With 'Dealer's Choice' Origin Trait.
+dimwishlist:item=-347000643&perks=-1273651019,-164231382
+dimwishlist:item=-347000643&perks=-1273651019,-2091530632
+dimwishlist:item=-347000643&perks=-1273651019,1314569399
+dimwishlist:item=-347000643&perks=1537859493,-164231382
+dimwishlist:item=-347000643&perks=1537859493,-2091530632
+dimwishlist:item=-347000643&perks=1537859493,1314569399
+dimwishlist:item=-347000643&perks=1199262059,-164231382
+dimwishlist:item=-347000643&perks=1199262059,-2091530632
+dimwishlist:item=-347000643&perks=1199262059,1314569399
+
+
+// LMGs - 17 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Commemoration
-//notes:Aegis B Tier. Best With 'Bray Inheritance' Origin Trait.
+//notes:Aegis S Tier. Best With 'Bray Inheritance' Origin Trait.
 dimwishlist:item=-64001307&perks=2083620761,1777582815
 dimwishlist:item=-64001307&perks=2083620761,132891359
 dimwishlist:item=-64001307&perks=1732988296,1777582815
@@ -175,11 +910,166 @@ dimwishlist:item=-64001307&perks=1732988296,132891359
 dimwishlist:item=-64001307&perks=767026723,1777582815
 dimwishlist:item=-64001307&perks=767026723,132891359
 
+//Corrective Measure
+//notes:Aegis S Tier. Best With 'Timelost Magazine' Origin Trait.
+dimwishlist:item=471518543&perks=922778834,1314569399
+dimwishlist:item=471518543&perks=922778834,527769018
+dimwishlist:item=471518543&perks=922778834,1777582815
+dimwishlist:item=471518543&perks=890589507,1314569399
+dimwishlist:item=471518543&perks=890589507,527769018
+dimwishlist:item=471518543&perks=890589507,1777582815
+dimwishlist:item=471518543&perks=1199262059,1314569399
+dimwishlist:item=471518543&perks=1199262059,527769018
+dimwishlist:item=471518543&perks=1199262059,1777582815
 
-// HGLs - 3 weapons (S + A + B Tiers (good quality))
+//Pro Memoria
+//notes:Aegis S Tier. Best With 'Dealer's Choice' Origin Trait.
+dimwishlist:item=-689363789&perks=1199262059,-164231382
+dimwishlist:item=-689363789&perks=1199262059,-95425405
+dimwishlist:item=-689363789&perks=1199262059,1732988296
+dimwishlist:item=-689363789&perks=2083620761,-164231382
+dimwishlist:item=-689363789&perks=2083620761,-95425405
+dimwishlist:item=-689363789&perks=2083620761,1732988296
+dimwishlist:item=-689363789&perks=1845216242,-164231382
+dimwishlist:item=-689363789&perks=1845216242,-95425405
+dimwishlist:item=-689363789&perks=1845216242,1732988296
+
+//Ulterior Observation
+//notes:Aegis S Tier. Best With 'Exhaustive Research' Origin Trait.
+dimwishlist:item=1079872540&perks=-925330387,1732988296
+dimwishlist:item=1079872540&perks=-925330387,1782880663
+dimwishlist:item=1079872540&perks=-925330387,1777582815
+dimwishlist:item=1079872540&perks=1199262059,1732988296
+dimwishlist:item=1079872540&perks=1199262059,1782880663
+dimwishlist:item=1079872540&perks=1199262059,1777582815
+dimwishlist:item=1079872540&perks=1414940212,1732988296
+dimwishlist:item=1079872540&perks=1414940212,1782880663
+dimwishlist:item=1079872540&perks=1414940212,1777582815
+
+//Unwavering Duty
+//notes:Aegis S Tier. Best With 'Roar of Battle' Origin Trait.
+dimwishlist:item=906840740&perks=1176939079,1777582815
+dimwishlist:item=906840740&perks=1176939079,-95425405
+dimwishlist:item=906840740&perks=1176939079,1981262976
+dimwishlist:item=906840740&perks=-158280276,1777582815
+dimwishlist:item=906840740&perks=-158280276,-95425405
+dimwishlist:item=906840740&perks=-158280276,1981262976
+dimwishlist:item=906840740&perks=1207795635,1777582815
+dimwishlist:item=906840740&perks=1207795635,-95425405
+dimwishlist:item=906840740&perks=1207795635,1981262976
+
+//Hammerhead
+BRAVE version
+//BRAVE version
+//notes:Aegis A Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=1896309757&perks=922778834,1777582815
+dimwishlist:item=1896309757&perks=922778834,-164231382
+dimwishlist:item=1896309757&perks=922778834,-1683408716
+dimwishlist:item=1896309757&perks=1501488052,1777582815
+dimwishlist:item=1896309757&perks=1501488052,-164231382
+dimwishlist:item=1896309757&perks=1501488052,-1683408716
+dimwishlist:item=1896309757&perks=-158280276,1777582815
+dimwishlist:item=1896309757&perks=-158280276,-164231382
+dimwishlist:item=1896309757&perks=-158280276,-1683408716
+
+//Watchful Eye
+//notes:Aegis A Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=1757177186&perks=1118505854,619868206
+dimwishlist:item=1757177186&perks=1118505854,1777582815
+dimwishlist:item=1757177186&perks=1118505854,-20743621
+dimwishlist:item=1757177186&perks=-541558028,619868206
+dimwishlist:item=1757177186&perks=-541558028,1777582815
+dimwishlist:item=1757177186&perks=-541558028,-20743621
+
+//Terminus Horizon
+RotN version
+//notes:Aegis A Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=487205709&perks=1199262059,-20743621
+dimwishlist:item=487205709&perks=1199262059,1777582815
+dimwishlist:item=487205709&perks=1199262059,619868206
+dimwishlist:item=487205709&perks=2083620761,-20743621
+dimwishlist:item=487205709&perks=2083620761,1777582815
+dimwishlist:item=487205709&perks=2083620761,619868206
+dimwishlist:item=487205709&perks=1732988296,-20743621
+dimwishlist:item=487205709&perks=1732988296,1777582815
+dimwishlist:item=487205709&perks=1732988296,619868206
+
+//Avalanche
+//notes:Aegis A Tier. Best With 'Dawning Surprise' Origin Trait.
+dimwishlist:item=1845978721&perks=1207795635,1176939079
+dimwishlist:item=1845978721&perks=1207795635,692451869
+dimwishlist:item=1845978721&perks=767026723,1176939079
+dimwishlist:item=1845978721&perks=767026723,692451869
+dimwishlist:item=1845978721&perks=1732988296,1176939079
+dimwishlist:item=1845978721&perks=1732988296,692451869
+
+//Archon's Thunder
+//notes:Aegis A Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=1967303408&perks=1937547168,-925330387
+dimwishlist:item=1967303408&perks=1937547168,-164231382
+dimwishlist:item=1967303408&perks=1937547168,1777582815
+dimwishlist:item=1967303408&perks=1782880663,-925330387
+dimwishlist:item=1967303408&perks=1782880663,-164231382
+dimwishlist:item=1967303408&perks=1782880663,1777582815
+dimwishlist:item=1967303408&perks=-158280276,-925330387
+dimwishlist:item=1967303408&perks=-158280276,-164231382
+dimwishlist:item=1967303408&perks=-158280276,1777582815
+
+//Speleologist
+//notes:Aegis A Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=412251536&perks=609540172,1176939079
+dimwishlist:item=412251536&perks=609540172,1777582815
+dimwishlist:item=412251536&perks=609540172,1314569399
+dimwishlist:item=412251536&perks=-105455433,1176939079
+dimwishlist:item=412251536&perks=-105455433,1777582815
+dimwishlist:item=412251536&perks=-105455433,1314569399
+dimwishlist:item=412251536&perks=-594616015,1176939079
+dimwishlist:item=412251536&perks=-594616015,1777582815
+dimwishlist:item=412251536&perks=-594616015,1314569399
+
+//Qua Xaphan V
+//notes:Aegis B Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=1975125963&perks=-541558028,922778834
+dimwishlist:item=1975125963&perks=-541558028,557783439
+dimwishlist:item=1975125963&perks=-541558028,1732988296
+dimwishlist:item=1975125963&perks=2007585037,922778834
+dimwishlist:item=1975125963&perks=2007585037,557783439
+dimwishlist:item=1975125963&perks=2007585037,1732988296
+dimwishlist:item=1975125963&perks=392152825,922778834
+dimwishlist:item=1975125963&perks=392152825,557783439
+dimwishlist:item=1975125963&perks=392152825,1732988296
+
+//Marcato-45
+//notes:Aegis B Tier. Best With 'Suros Synergy' Origin Trait.
+dimwishlist:item=-61591924&perks=1199262059,-1683408716
+dimwishlist:item=-61591924&perks=1199262059,-2091530632
+dimwishlist:item=-61591924&perks=1199262059,1845216242
+
+//Recurrent Impact
+//notes:Aegis B Tier. Best With 'Land Tank' Origin Trait.
+dimwishlist:item=1572896086&perks=767026723,1314569399
+dimwishlist:item=1572896086&perks=767026723,-925330387
+dimwishlist:item=1572896086&perks=-541558028,1314569399
+dimwishlist:item=1572896086&perks=-541558028,-925330387
+
+//Chain of Command
+//notes:Aegis B Tier. Best With 'Gun and Run' Origin Trait.
+dimwishlist:item=-1189037121&perks=557783439,1199262059
+
+//Qua Furor V
+//notes:Aegis B Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=751880654&perks=1625457756,1732988296
+dimwishlist:item=751880654&perks=1625457756,-2091530632
+dimwishlist:item=751880654&perks=1625457756,1314569399
+dimwishlist:item=751880654&perks=1782880663,1732988296
+dimwishlist:item=751880654&perks=1782880663,-2091530632
+dimwishlist:item=751880654&perks=1782880663,1314569399
+
+
+// HGLs - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //VS Chill Inhibitor
-//notes:Aegis A Tier. Best With 'Bray Legacy' Origin Trait.
+//notes:Aegis S Tier. Best With 'Bray Legacy' Origin Trait.
 dimwishlist:item=1762785662&perks=1414940212,-95425405
 dimwishlist:item=1762785662&perks=1414940212,-109504610
 dimwishlist:item=1762785662&perks=1414940212,499572987
@@ -191,7 +1081,7 @@ dimwishlist:item=1762785662&perks=63549071,-109504610
 dimwishlist:item=1762785662&perks=63549071,499572987
 
 //Outrageous Fortune
-//notes:Aegis B Tier. Best With 'Problem Solver' Origin Trait.
+//notes:Aegis S Tier. Best With 'Problem Solver' Origin Trait.
 dimwishlist:item=-148264748&perks=1414940212,-95425405
 dimwishlist:item=-148264748&perks=1414940212,-109504610
 dimwishlist:item=-148264748&perks=1414940212,1584429898
@@ -199,12 +1089,128 @@ dimwishlist:item=-148264748&perks=1176939079,-95425405
 dimwishlist:item=-148264748&perks=1176939079,-109504610
 dimwishlist:item=-148264748&perks=1176939079,1584429898
 
+//Bitter/Sweet
+//notes:Aegis S Tier. Best With 'Dark Ether Reaper' Origin Trait.
+dimwishlist:item=-1695628671&perks=1414940212,-95425405
+dimwishlist:item=-1695628671&perks=1414940212,692451869
+dimwishlist:item=-1695628671&perks=1414940212,-109504610
 
-// Swords - 3 weapons (S + A + B Tiers (good quality))
+//Wicked Sister
+//notes:Aegis S Tier. Best With 'Nadir Focus' Origin Trait.
+dimwishlist:item=2039776723&perks=1414940212,-95425405
+dimwishlist:item=2039776723&perks=1414940212,692451869
+dimwishlist:item=2039776723&perks=1414940212,-109504610
+
+//Edge Transit
+BRAVE version
+//BRAVE version
+//notes:Aegis S Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=568611923&perks=609540172,-95425405
+dimwishlist:item=568611923&perks=609540172,-109504610
+dimwishlist:item=568611923&perks=609540172,-594616015
+dimwishlist:item=568611923&perks=692451869,-95425405
+dimwishlist:item=568611923&perks=692451869,-109504610
+dimwishlist:item=568611923&perks=692451869,-594616015
+dimwishlist:item=568611923&perks=1584429898,-95425405
+dimwishlist:item=568611923&perks=1584429898,-109504610
+dimwishlist:item=568611923&perks=1584429898,-594616015
+
+//Cataphract GL3
+//notes:Aegis S Tier. Best With 'Alacrity' Origin Trait.
+dimwishlist:item=-1556366280&perks=609540172,-95425405
+dimwishlist:item=-1556366280&perks=609540172,692451869
+dimwishlist:item=-1556366280&perks=1207795635,-95425405
+dimwishlist:item=-1556366280&perks=1207795635,692451869
+
+//Marsilion-C
+//notes:Aegis A Tier. Best With 'Hakke Breach Armaments' Origin Trait.
+dimwishlist:item=867154247&perks=609540172,692451869
+dimwishlist:item=867154247&perks=609540172,1552559776
+
+//Koraxis's Distress
+//notes:Aegis A Tier. Best With 'Harmonic Resonance' Origin Trait.
+dimwishlist:item=-1322017659&perks=609540172,499572987
+dimwishlist:item=-1322017659&perks=609540172,586210096
+dimwishlist:item=-1322017659&perks=609540172,1552559776
+dimwishlist:item=-1322017659&perks=2083620761,499572987
+dimwishlist:item=-1322017659&perks=2083620761,586210096
+dimwishlist:item=-1322017659&perks=2083620761,1552559776
+
+//Hullabaloo
+//notes:Aegis A Tier. Best With 'Classy Contender' Origin Trait.
+dimwishlist:item=657927352&perks=1414940212,1584429898
+dimwishlist:item=657927352&perks=1414940212,1314569399
+dimwishlist:item=657927352&perks=1414940212,-20743621
+dimwishlist:item=657927352&perks=609540172,1584429898
+dimwishlist:item=657927352&perks=609540172,1314569399
+dimwishlist:item=657927352&perks=609540172,-20743621
+dimwishlist:item=657927352&perks=1199262059,1584429898
+dimwishlist:item=657927352&perks=1199262059,1314569399
+dimwishlist:item=657927352&perks=1199262059,-20743621
+
+//Acosmic
+//notes:Aegis A Tier. Best With 'Nadir Focus' Origin Trait.
+dimwishlist:item=425681240&perks=1937547168,-95425405
+dimwishlist:item=425681240&perks=1937547168,692451869
+dimwishlist:item=425681240&perks=1937547168,-109504610
+dimwishlist:item=425681240&perks=-1792473641,-95425405
+dimwishlist:item=425681240&perks=-1792473641,692451869
+dimwishlist:item=425681240&perks=-1792473641,-109504610
+dimwishlist:item=425681240&perks=-1262906369,-95425405
+dimwishlist:item=425681240&perks=-1262906369,692451869
+dimwishlist:item=425681240&perks=-1262906369,-109504610
+
+//Regnant
+//notes:Aegis A Tier. Best With 'Noble Deeds' Origin Trait.
+dimwishlist:item=268260372&perks=609540172,692451869
+dimwishlist:item=268260372&perks=609540172,-109504610
+dimwishlist:item=268260372&perks=1207795635,692451869
+dimwishlist:item=268260372&perks=1207795635,-109504610
+
+//Dimensional Hypotrochoid
+//notes:Aegis A Tier. Best With 'Nanotech Tracer Rockets' Origin Trait.
+dimwishlist:item=1311684613&perks=609540172,1314569399
+dimwishlist:item=1311684613&perks=609540172,-841433030
+dimwishlist:item=1311684613&perks=609540172,1584429898
+dimwishlist:item=1311684613&perks=-541558028,1314569399
+dimwishlist:item=1311684613&perks=-541558028,-841433030
+dimwishlist:item=1311684613&perks=-541558028,1584429898
+
+//Wendigo GL3
+//notes:Aegis B Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=1854753404&perks=1207795635,692451869
+dimwishlist:item=1854753404&perks=1207795635,-109504610
+
+//Love and Death
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-604443794&perks=1207795635,1552559776
+dimwishlist:item=-604443794&perks=-1792473641,1552559776
+
+//Swarm of the Raven
+//notes:Aegis B Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=1972985595&perks=1207795635,692451869
+dimwishlist:item=1972985595&perks=-1792473641,692451869
+
+//Interference VI
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=1443049976&perks=1207795635,1552559776
+dimwishlist:item=1443049976&perks=-1792473641,1552559776
+
+//Typhon GL5
+//notes:Aegis B Tier. Best With 'Omolon Fluid Dynamics' Origin Trait.
+dimwishlist:item=-726590174&perks=1199262059,-109504610
+
+//Cry Mutiny
+//notes:Aegis B Tier. Best With 'Gun and Run' Origin Trait.
+dimwishlist:item=616582330&perks=1199262059,-841433030
+
+
+// Swords - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Falling Guillotine
 BRAVE version
-//notes:Aegis A Tier. Best With 'Indomitability' Origin Trait.
+//BRAVE version
+//notes:Aegis S Tier. Best With 'Indomitability' Origin Trait.
 dimwishlist:item=1815105249&perks=1584429898,637020442
 dimwishlist:item=1815105249&perks=1584429898,-95425405
 dimwishlist:item=1815105249&perks=1584429898,499572987
@@ -213,7 +1219,7 @@ dimwishlist:item=1815105249&perks=586210096,-95425405
 dimwishlist:item=1815105249&perks=586210096,499572987
 
 //Synanceia
-//notes:Aegis B Tier. Best With 'Tenacity' Origin Trait.
+//notes:Aegis S Tier. Best With 'Tenacity' Origin Trait.
 dimwishlist:item=1823308496&perks=1641268060,-1272766419
 dimwishlist:item=1823308496&perks=1641268060,637020442
 dimwishlist:item=1823308496&perks=1641268060,492132395
@@ -224,11 +1230,122 @@ dimwishlist:item=1823308496&perks=-1773276627,-1272766419
 dimwishlist:item=1823308496&perks=-1773276627,637020442
 dimwishlist:item=1823308496&perks=-1773276627,492132395
 
+//Summum Bonum
+//notes:Aegis S Tier. Best With 'Collective Purpose' Origin Trait.
+dimwishlist:item=-725559418&perks=1641268060,-339046639
+dimwishlist:item=-725559418&perks=1641268060,212777027
+dimwishlist:item=-725559418&perks=1641268060,499572987
+dimwishlist:item=-725559418&perks=63549071,-339046639
+dimwishlist:item=-725559418&perks=63549071,212777027
+dimwishlist:item=-725559418&perks=63549071,499572987
+dimwishlist:item=-725559418&perks=-594616015,-339046639
+dimwishlist:item=-725559418&perks=-594616015,212777027
+dimwishlist:item=-725559418&perks=-594616015,499572987
 
-// Rockets - 3 weapons (S + A + B Tiers (good quality))
+//The Other Half
+//notes:Aegis S Tier. Best With 'Hot Swap' Origin Trait.
+dimwishlist:item=-1037876129&perks=637020442,499572987
+dimwishlist:item=-1037876129&perks=637020442,586210096
+dimwishlist:item=-1037876129&perks=637020442,212777027
+dimwishlist:item=-1037876129&perks=1641268060,499572987
+dimwishlist:item=-1037876129&perks=1641268060,586210096
+dimwishlist:item=-1037876129&perks=1641268060,212777027
+
+//The Slammer
+//notes:Aegis S Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=-1405465468&perks=637020442,1659579550
+dimwishlist:item=-1405465468&perks=637020442,1199262059
+
+//Bequest
+//notes:Aegis S Tier. Best With 'Bray Inheritance' Origin Trait.
+dimwishlist:item=-928421575&perks=1641268060,499572987
+dimwishlist:item=-928421575&perks=1641268060,-841433030
+
+//Temptation's Hook
+//notes:Aegis A Tier. Best With 'Paracausal Fluid' Origin Trait.
+dimwishlist:item=1587953057&perks=1641268060,212777027
+dimwishlist:item=1587953057&perks=63549071,212777027
+
+//Abyssal Edge
+//notes:Aegis A Tier. Best With 'Willing Vessel' Origin Trait.
+dimwishlist:item=547165496&perks=1641268060,-1272766419
+dimwishlist:item=547165496&perks=1641268060,499572987
+dimwishlist:item=547165496&perks=1641268060,1300954210
+dimwishlist:item=547165496&perks=403946224,-1272766419
+dimwishlist:item=547165496&perks=403946224,499572987
+dimwishlist:item=547165496&perks=403946224,1300954210
+
+//Ill Omen
+//notes:Aegis A Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=-500692566&perks=1641268060,212777027
+dimwishlist:item=-500692566&perks=1641268060,499572987
+dimwishlist:item=-500692566&perks=63549071,212777027
+dimwishlist:item=-500692566&perks=63549071,499572987
+
+//Geodetic HSm
+//notes:Aegis A Tier. Best With 'Nadir Focus' Origin Trait.
+dimwishlist:item=-657297537&perks=1641268060,212777027
+
+//Zephyr
+//notes:Aegis A Tier. Best With 'Dawning Surprise' Origin Trait.
+dimwishlist:item=1911078836&perks=1641268060,499572987
+dimwishlist:item=1911078836&perks=1641268060,212777027
+dimwishlist:item=1911078836&perks=1641268060,1659579550
+dimwishlist:item=1911078836&perks=63549071,499572987
+dimwishlist:item=1911078836&perks=63549071,212777027
+dimwishlist:item=1911078836&perks=63549071,1659579550
+dimwishlist:item=1911078836&perks=1782880663,499572987
+dimwishlist:item=1911078836&perks=1782880663,212777027
+dimwishlist:item=1911078836&perks=1782880663,1659579550
+
+//Aurora Dawn
+//notes:Aegis A Tier. Best With 'Vanguard Determination' Origin Trait.
+dimwishlist:item=2111625436&perks=-1773276627,212777027
+dimwishlist:item=2111625436&perks=-1773276627,-1272766419
+dimwishlist:item=2111625436&perks=-1773276627,1659579550
+dimwishlist:item=2111625436&perks=403946224,212777027
+dimwishlist:item=2111625436&perks=403946224,-1272766419
+dimwishlist:item=2111625436&perks=403946224,1659579550
+dimwishlist:item=2111625436&perks=1782880663,212777027
+dimwishlist:item=2111625436&perks=1782880663,-1272766419
+dimwishlist:item=2111625436&perks=1782880663,1659579550
+
+//Double-Edged Answer
+//notes:Aegis B Tier. Best With 'Nadir Focus' Origin Trait.
+dimwishlist:item=105164264&perks=1641268060,499572987
+dimwishlist:item=105164264&perks=1641268060,212777027
+
+//Nasreddin
+//notes:Aegis B Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=1456017061&perks=1641268060,499572987
+dimwishlist:item=1456017061&perks=1641268060,212777027
+
+//Negative Space
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=287042892&perks=1641268060,499572987
+dimwishlist:item=287042892&perks=1641268060,212777027
+
+//Night Terror
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-424155542&perks=1641268060,499572987
+dimwishlist:item=-424155542&perks=1641268060,212777027
+
+//False Idols
+//notes:Aegis B Tier. Best With 'Dealer's Choice' Origin Trait.
+dimwishlist:item=-87846693&perks=1641268060,-95425405
+dimwishlist:item=-87846693&perks=1641268060,499572987
+dimwishlist:item=-87846693&perks=63549071,-95425405
+dimwishlist:item=-87846693&perks=63549071,499572987
+
+//Goldtusk
+//notes:Aegis B Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=569799275&perks=1641268060,212777027
+
+
+// Rockets - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Hezen Vengeance
-//notes:Aegis A Tier. Best With 'Timelost Magazine' Origin Trait.
+//notes:Aegis S Tier. Best With 'Timelost Magazine' Origin Trait.
 dimwishlist:item=-244322073&perks=1414940212,-95425405
 dimwishlist:item=-244322073&perks=1414940212,-1272766419
 dimwishlist:item=-244322073&perks=1414940212,240787896
@@ -240,7 +1357,7 @@ dimwishlist:item=-244322073&perks=1118505854,-1272766419
 dimwishlist:item=-244322073&perks=1118505854,240787896
 
 //The When and Where
-//notes:Aegis B Tier. Best With 'Frame of Reference' Origin Trait.
+//notes:Aegis S Tier. Best With 'Frame of Reference' Origin Trait.
 dimwishlist:item=1090936013&perks=-1792473641,-95425405
 dimwishlist:item=1090936013&perks=-1792473641,-1272766419
 dimwishlist:item=1090936013&perks=-1792473641,240787896
@@ -251,26 +1368,244 @@ dimwishlist:item=1090936013&perks=1118505854,-95425405
 dimwishlist:item=1090936013&perks=1118505854,-1272766419
 dimwishlist:item=1090936013&perks=1118505854,240787896
 
+//Cold Comfort
+RotN version
+//notes:Aegis S Tier. Best With 'Restoration Ritual' Origin Trait.
+dimwishlist:item=839786290&perks=1414940212,-1272766419
+dimwishlist:item=839786290&perks=1414940212,-95425405
+dimwishlist:item=839786290&perks=1414940212,240787896
+dimwishlist:item=839786290&perks=2083620761,-1272766419
+dimwishlist:item=839786290&perks=2083620761,-95425405
+dimwishlist:item=839786290&perks=2083620761,240787896
 
-// LFRs - 3 weapons (S + A + B Tiers (good quality))
+//Cynosure
+//notes:Aegis S Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=694275488&perks=1414940212,-1272766419
+dimwishlist:item=694275488&perks=1414940212,-109504610
+dimwishlist:item=694275488&perks=1414940212,240787896
+dimwishlist:item=694275488&perks=-1792473641,-1272766419
+dimwishlist:item=694275488&perks=-1792473641,-109504610
+dimwishlist:item=694275488&perks=-1792473641,240787896
+dimwishlist:item=694275488&perks=-541558028,-1272766419
+dimwishlist:item=694275488&perks=-541558028,-109504610
+dimwishlist:item=694275488&perks=-541558028,240787896
+
+//Tomorrow's Answer
+//notes:Aegis S Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=958384347&perks=1414940212,-95425405
+dimwishlist:item=958384347&perks=1414940212,-109504610
+dimwishlist:item=958384347&perks=1414940212,240787896
+dimwishlist:item=958384347&perks=1937547168,-95425405
+dimwishlist:item=958384347&perks=1937547168,-109504610
+dimwishlist:item=958384347&perks=1937547168,240787896
+dimwishlist:item=958384347&perks=-1262906369,-95425405
+dimwishlist:item=958384347&perks=-1262906369,-109504610
+dimwishlist:item=958384347&perks=-1262906369,240787896
+
+//Apex Predator
+//notes:Aegis S Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=1851777734&perks=2083620761,-95425405
+dimwishlist:item=1851777734&perks=2083620761,499572987
+dimwishlist:item=1851777734&perks=2083620761,240787896
+dimwishlist:item=1851777734&perks=392152825,-95425405
+dimwishlist:item=1851777734&perks=392152825,499572987
+dimwishlist:item=1851777734&perks=392152825,240787896
+dimwishlist:item=1851777734&perks=1199262059,-95425405
+dimwishlist:item=1851777734&perks=1199262059,499572987
+dimwishlist:item=1851777734&perks=1199262059,240787896
+
+//Crux Termination IV
+//notes:Aegis A Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=1719687748&perks=2083620761,240787896
+dimwishlist:item=1719687748&perks=2083620761,-109504610
+dimwishlist:item=1719687748&perks=2083620761,499572987
+dimwishlist:item=1719687748&perks=-1792473641,240787896
+dimwishlist:item=1719687748&perks=-1792473641,-109504610
+dimwishlist:item=1719687748&perks=-1792473641,499572987
+dimwishlist:item=1719687748&perks=1938173835,240787896
+dimwishlist:item=1719687748&perks=1938173835,-109504610
+dimwishlist:item=1719687748&perks=1938173835,499572987
+
+//Cold Comfort
+//notes:Aegis A Tier. Best With 'Restoration Ritual' Origin Trait.
+dimwishlist:item=839786290&perks=609540172,-95425405
+dimwishlist:item=839786290&perks=609540172,240787896
+
+//Heretic's Fervor
+//notes:Aegis A Tier. Best With 'Dark Ether Reaper' Origin Trait.
+dimwishlist:item=-70299345&perks=-541558028,240787896
+dimwishlist:item=-70299345&perks=-541558028,-109504610
+dimwishlist:item=-70299345&perks=1938173835,240787896
+dimwishlist:item=-70299345&perks=1938173835,-109504610
+dimwishlist:item=-70299345&perks=1207795635,240787896
+dimwishlist:item=-70299345&perks=1207795635,-109504610
+
+//Braytech Osprey
+//notes:Aegis A Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=1929278169&perks=1216817444,240787896
+dimwishlist:item=1929278169&perks=1216817444,586210096
+dimwishlist:item=1929278169&perks=609540172,240787896
+dimwishlist:item=1929278169&perks=609540172,586210096
+dimwishlist:item=1929278169&perks=-541558028,240787896
+dimwishlist:item=1929278169&perks=-541558028,586210096
+
+//The Hothead
+//notes:Aegis A Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=-39795765&perks=1199262059,-1792473641
+dimwishlist:item=-39795765&perks=1199262059,-109504610
+dimwishlist:item=-39795765&perks=-541558028,-1792473641
+dimwishlist:item=-39795765&perks=-541558028,-109504610
+dimwishlist:item=-39795765&perks=1207795635,-1792473641
+dimwishlist:item=-39795765&perks=1207795635,-109504610
+
+//Faith-Keeper
+//notes:Aegis A Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=-99780354&perks=-1792473641,240787896
+dimwishlist:item=-99780354&perks=-1792473641,-109504610
+dimwishlist:item=-99780354&perks=1207795635,240787896
+dimwishlist:item=-99780354&perks=1207795635,-109504610
+dimwishlist:item=-99780354&perks=-541558028,240787896
+dimwishlist:item=-99780354&perks=-541558028,-109504610
+
+//Crowning Duologue
+//notes:Aegis B Tier. Best With 'Dream Work' Origin Trait.
+dimwishlist:item=-188209994&perks=2083620761,240787896
+dimwishlist:item=-188209994&perks=2083620761,-594616015
+dimwishlist:item=-188209994&perks=1937547168,240787896
+dimwishlist:item=-188209994&perks=1937547168,-594616015
+dimwishlist:item=-188209994&perks=1199262059,240787896
+dimwishlist:item=-188209994&perks=1199262059,-594616015
+
+//Sleepless
+//notes:Aegis B Tier. Best With 'Advanced Reflexes' Origin Trait.
+dimwishlist:item=2140635451&perks=-541558028,240787896
+dimwishlist:item=2140635451&perks=1207795635,240787896
+
+//Semiotician
+//notes:Aegis B Tier. Best With 'Head Rush' Origin Trait.
+dimwishlist:item=-1372217367&perks=-541558028,240787896
+dimwishlist:item=-1372217367&perks=-541558028,-109504610
+
+//Blowout
+//notes:Aegis B Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=1903182562&perks=-541558028,-109504610
+dimwishlist:item=1903182562&perks=-541558028,586210096
+dimwishlist:item=1903182562&perks=1199262059,-109504610
+dimwishlist:item=1903182562&perks=1199262059,586210096
+
+//Code Duello
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-1798725244&perks=1207795635,586210096
+dimwishlist:item=-1798725244&perks=-541558028,586210096
+
+//Roar of the Bear
+//notes:Aegis B Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=308332265&perks=-541558028,1915761444
+dimwishlist:item=308332265&perks=-541558028,1216817444
+dimwishlist:item=308332265&perks=1199262059,1915761444
+dimwishlist:item=308332265&perks=1199262059,1216817444
+
+
+// LFRs - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Scintillation
-//notes:Aegis A Tier. Best With 'Veist Stinger' Origin Trait.
+//notes:Aegis S Tier. Best With 'Veist Stinger' Origin Trait.
 dimwishlist:item=-1703709755&perks=1501488052,-95425405
 dimwishlist:item=-1703709755&perks=1501488052,499572987
 dimwishlist:item=-1703709755&perks=1104037689,-95425405
 dimwishlist:item=-1703709755&perks=1104037689,499572987
 
 //Mistral Lift
-//notes:Aegis B Tier. Best With 'Veist Stinger' Origin Trait.
+//notes:Aegis S Tier. Best With 'Veist Stinger' Origin Trait.
 dimwishlist:item=-811481569&perks=1414940212,-95425405
 dimwishlist:item=-811481569&perks=609540172,-95425405
 
+//Boomslang-4fr
+//notes:Aegis S Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=-368813698&perks=1414940212,1170256448
+dimwishlist:item=-368813698&perks=1414940212,-293100805
+dimwishlist:item=-368813698&perks=442434790,1170256448
+dimwishlist:item=-368813698&perks=442434790,-293100805
 
-// Autos - 2 weapons (S + A + B Tiers (good quality))
+//Doomed Petitioner
+//notes:Aegis S Tier. Best With 'Dragon's Vengeance' Origin Trait.
+dimwishlist:item=1501688142&perks=609540172,499572987
+dimwishlist:item=1501688142&perks=609540172,1170256448
+dimwishlist:item=1501688142&perks=2083620761,499572987
+dimwishlist:item=1501688142&perks=2083620761,1170256448
+
+//Cataclysmic
+//notes:Aegis S Tier. Best With 'Souldrinker' Origin Trait.
+dimwishlist:item=999767358&perks=-158280276,-95425405
+
+//Briar's Contempt
+//notes:Aegis S Tier. Best With 'Harmonic Resonance' Origin Trait.
+dimwishlist:item=1491665733&perks=1501488052,499572987
+dimwishlist:item=1491665733&perks=1501488052,-790033859
+
+//Stormchaser
+//notes:Aegis A Tier. Best With 'Bitterspite' Origin Trait.
+dimwishlist:item=-642460467&perks=-1792473641,-410565797
+dimwishlist:item=-642460467&perks=-1792473641,586210096
+dimwishlist:item=-642460467&perks=1207795635,-410565797
+dimwishlist:item=-642460467&perks=1207795635,586210096
+
+//Line in the Sand
+//notes:Aegis A Tier. Best With 'Cast No Shadows' Origin Trait.
+dimwishlist:item=946443267&perks=-1792473641,-95425405
+dimwishlist:item=946443267&perks=-594616015,-95425405
+
+//Suspectum-4fr
+//notes:Aegis A Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=-679545627&perks=609540172,1170256448
+dimwishlist:item=-679545627&perks=609540172,-410565797
+
+//Eyes Unveiled
+//notes:Aegis A Tier. Best With 'Willing Vessel' Origin Trait.
+dimwishlist:item=727781522&perks=767026723,-508533305
+dimwishlist:item=727781522&perks=767026723,-293100805
+dimwishlist:item=727781522&perks=2007585037,-508533305
+dimwishlist:item=727781522&perks=2007585037,-293100805
+
+//Reed's Regret
+//notes:Aegis A Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=1399243961&perks=2007585037,-410565797
+
+//Taipan-4fr
+//notes:Aegis A Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=1911060537&perks=2007585037,-410565797
+
+//Fire and Forget
+//notes:Aegis B Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=-2022926203&perks=-541558028,586210096
+
+//Sailspy Pitchglass
+//notes:Aegis B Tier. Best With 'Right Hook' Origin Trait.
+dimwishlist:item=1184309824&perks=-1792473641,-790033859
+dimwishlist:item=1184309824&perks=-1792473641,586210096
+
+//Laser Painter
+//notes:Aegis B Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=-1073245278&perks=-1792473641,-790033859
+dimwishlist:item=-1073245278&perks=1207795635,-790033859
+
+//Threaded Needle
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-1219742745&perks=-1792473641,586210096
+
+//Tarantula
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-959623933&perks=-541558028,909215116
+
+//Corsair's Wrath
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-1580945089&perks=975714866,1312726537
+
+
+// Autos - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //No Hesitation
-//notes:Aegis A Tier. Best With 'Dealer's Choice' Origin Trait.
+//notes:Aegis S Tier. Best With 'Dealer's Choice' Origin Trait.
 dimwishlist:item=1801007332&perks=1883606717,1176939079
 dimwishlist:item=1801007332&perks=1883606717,63549071
 dimwishlist:item=1801007332&perks=1883606717,2058905555
@@ -279,7 +1614,7 @@ dimwishlist:item=1801007332&perks=1199262059,63549071
 dimwishlist:item=1801007332&perks=1199262059,2058905555
 
 //Adamantite
-//notes:Aegis B Tier. Best With 'Runneth Over' Origin Trait.
+//notes:Aegis S Tier. Best With 'Runneth Over' Origin Trait.
 dimwishlist:item=-1064984407&perks=1343329181,63549071
 dimwishlist:item=-1064984407&perks=1343329181,1637062097
 dimwishlist:item=-1064984407&perks=1343329181,586210096
@@ -290,11 +1625,115 @@ dimwishlist:item=-1064984407&perks=1199262059,63549071
 dimwishlist:item=-1064984407&perks=1199262059,1637062097
 dimwishlist:item=-1064984407&perks=1199262059,586210096
 
+//Reckless Oracle
+//notes:Aegis S Tier. Best With 'Photoinhibition' Origin Trait.
+dimwishlist:item=1992309064&perks=922778834,132891359
+dimwishlist:item=1992309064&perks=922778834,1314569399
+dimwishlist:item=1992309064&perks=1199262059,132891359
+dimwishlist:item=1992309064&perks=1199262059,1314569399
 
-// Bows - 2 weapons (S + A + B Tiers (good quality))
+//Abyss Defiant
+//notes:Aegis S Tier. Best With 'Cursed Thrall' Origin Trait.
+dimwishlist:item=833898322&perks=-105455433,1176939079
+dimwishlist:item=833898322&perks=-1445106171,1176939079
+
+//The Summoner
+//notes:Aegis S Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=1907698332&perks=-105455433,1176939079
+dimwishlist:item=1907698332&perks=-105455433,-1683408716
+
+//The Riposte
+//notes:Aegis S Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-540559178&perks=132891359,922778834
+dimwishlist:item=-540559178&perks=-1445106171,922778834
+
+//VS Pyroelectric Propellant
+//notes:Aegis A Tier. Best With 'Bray Legacy' Origin Trait.
+dimwishlist:item=-62487254&perks=63549071,619868206
+dimwishlist:item=-62487254&perks=1134041288,619868206
+
+//Age-Old Bond
+//notes:Aegis A Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=601592879&perks=132891359,922778834
+dimwishlist:item=601592879&perks=1732988296,922778834
+
+//Giver's Blessing
+//notes:Aegis A Tier. Best With 'Exhaustive Research' Origin Trait.
+dimwishlist:item=970034755&perks=1501488052,1727533409
+dimwishlist:item=970034755&perks=-264006064,1727533409
+dimwishlist:item=970034755&perks=420666599,1727533409
+
+//Prosecutor
+RotN version
+//notes:Aegis A Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=882778888&perks=1732988296,139007474
+dimwishlist:item=882778888&perks=1732988296,-20743621
+dimwishlist:item=882778888&perks=63549071,139007474
+dimwishlist:item=882778888&perks=63549071,-20743621
+dimwishlist:item=882778888&perks=1134041288,139007474
+dimwishlist:item=882778888&perks=1134041288,-20743621
+
+//Chroma Rush
+//notes:Aegis A Tier. Best With 'Splicer Surge' Origin Trait.
+dimwishlist:item=1119734784&perks=767026723,1727533409
+dimwishlist:item=1119734784&perks=767026723,586210096
+
+//Origin Story
+//notes:Aegis A Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=1644162710&perks=63549071,1727533409
+dimwishlist:item=1644162710&perks=63549071,-1683408716
+dimwishlist:item=1644162710&perks=1199262059,1727533409
+dimwishlist:item=1644162710&perks=1199262059,-1683408716
+
+//Prosecutor
+//notes:Aegis B Tier. Best With 'Crossing Over' Origin Trait.
+dimwishlist:item=2129814338&perks=1732988296,139007474
+dimwishlist:item=2129814338&perks=1501488052,139007474
+
+//Positive Outlook
+//notes:Aegis B Tier. Best With 'Omolon Fluid Dynamics' Origin Trait.
+dimwishlist:item=491078457&perks=1301546162,922778834
+dimwishlist:item=491078457&perks=1301546162,1732988296
+dimwishlist:item=491078457&perks=1301546162,132891359
+
+//Breakneck
+//notes:Aegis B Tier. Best With 'Gun and Run' Origin Trait.
+dimwishlist:item=2026755633&perks=-1445106171,1727533409
+dimwishlist:item=2026755633&perks=-1445106171,-1683408716
+dimwishlist:item=2026755633&perks=-1445106171,63549071
+dimwishlist:item=2026755633&perks=-264006064,1727533409
+dimwishlist:item=2026755633&perks=-264006064,-1683408716
+dimwishlist:item=2026755633&perks=-264006064,63549071
+dimwishlist:item=2026755633&perks=2039655992,1727533409
+dimwishlist:item=2026755633&perks=2039655992,-1683408716
+dimwishlist:item=2026755633&perks=2039655992,63549071
+
+//Braytech Werewolf
+//notes:Aegis B Tier. Best With 'Search Party' Origin Trait.
+dimwishlist:item=528834068&perks=1501488052,1727533409
+dimwishlist:item=528834068&perks=1501488052,-1683408716
+dimwishlist:item=528834068&perks=2039655992,1727533409
+dimwishlist:item=528834068&perks=2039655992,-1683408716
+
+//Shadow Price
+//notes:Aegis B Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=-1661780774&perks=63549071,139007474
+dimwishlist:item=-1661780774&perks=63549071,1314569399
+dimwishlist:item=-1661780774&perks=1301546162,139007474
+dimwishlist:item=-1661780774&perks=1301546162,1314569399
+
+//Veiled Threat
+//notes:Aegis B Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=-609496881&perks=63549071,-925330387
+dimwishlist:item=-609496881&perks=63549071,-164231382
+dimwishlist:item=-609496881&perks=-264006064,-925330387
+dimwishlist:item=-609496881&perks=-264006064,-164231382
+
+
+// Bows - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Non-Denouement
-//notes:Aegis A Tier. Best With 'Collective Purpose' Origin Trait.
+//notes:Aegis S Tier. Best With 'Collective Purpose' Origin Trait.
 dimwishlist:item=1770490683&perks=1732988296,139007474
 dimwishlist:item=1770490683&perks=1732988296,-1693987055
 dimwishlist:item=1770490683&perks=1732988296,-339046639
@@ -306,33 +1745,255 @@ dimwishlist:item=1770490683&perks=-264006064,-1693987055
 dimwishlist:item=1770490683&perks=-264006064,-339046639
 
 //Accrued Redemption
-//notes:Aegis B Tier. Best With 'Photoinhibition' Origin Trait.
+//notes:Aegis S Tier. Best With 'Photoinhibition' Origin Trait.
 dimwishlist:item=-199071223&perks=1718750057,1727533409
 dimwishlist:item=-199071223&perks=1718750057,890589507
 
+//Fortunate Star
+//notes:Aegis S Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=591672323&perks=1732988296,922778834
+dimwishlist:item=591672323&perks=1732988296,527769018
+dimwishlist:item=591672323&perks=1732988296,-1693987055
+dimwishlist:item=591672323&perks=132891359,922778834
+dimwishlist:item=591672323&perks=132891359,527769018
+dimwishlist:item=591672323&perks=132891359,-1693987055
+dimwishlist:item=591672323&perks=420666599,922778834
+dimwishlist:item=591672323&perks=420666599,527769018
+dimwishlist:item=591672323&perks=420666599,-1693987055
 
-// HCs - 2 weapons (S + A + B Tiers (good quality))
+//Anamnesis
+//notes:Aegis S Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=-877235370&perks=132891359,922778834
+dimwishlist:item=-877235370&perks=132891359,527769018
+dimwishlist:item=-877235370&perks=132891359,-1693987055
+dimwishlist:item=-877235370&perks=1732988296,922778834
+dimwishlist:item=-877235370&perks=1732988296,527769018
+dimwishlist:item=-877235370&perks=1732988296,-1693987055
+dimwishlist:item=-877235370&perks=1718750057,922778834
+dimwishlist:item=-877235370&perks=1718750057,527769018
+dimwishlist:item=-877235370&perks=1718750057,-1693987055
+
+//Pre Astyanax IV
+//notes:Aegis S Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=471764396&perks=1176939079,492132395
+dimwishlist:item=471764396&perks=1176939079,-1693987055
+dimwishlist:item=471764396&perks=1176939079,-1272766419
+dimwishlist:item=471764396&perks=890589507,492132395
+dimwishlist:item=471764396&perks=890589507,-1693987055
+dimwishlist:item=471764396&perks=890589507,-1272766419
+
+//Tyranny of Heaven
+//notes:Aegis S Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=-906311985&perks=1732988296,1176939079
+dimwishlist:item=-906311985&perks=1732988296,1314569399
+dimwishlist:item=-906311985&perks=-1693987055,1176939079
+dimwishlist:item=-906311985&perks=-1693987055,1314569399
+dimwishlist:item=-906311985&perks=1718750057,1176939079
+dimwishlist:item=-906311985&perks=1718750057,1314569399
+
+//Mercury-A
+//notes:Aegis A Tier. Best With 'Tenacity' Origin Trait.
+dimwishlist:item=-1456687667&perks=63549071,1727533409
+dimwishlist:item=-1456687667&perks=1898651759,1727533409
+
+//Strident Whistle
+//notes:Aegis A Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=-1703726222&perks=1718750057,1176939079
+dimwishlist:item=-1703726222&perks=1718750057,-1693987055
+dimwishlist:item=-1703726222&perks=1718750057,1732988296
+dimwishlist:item=-1703726222&perks=-264006064,1176939079
+dimwishlist:item=-1703726222&perks=-264006064,-1693987055
+dimwishlist:item=-1703726222&perks=-264006064,1732988296
+
+//Hush
+//notes:Aegis A Tier. Best With 'Gun and Run' Origin Trait.
+dimwishlist:item=1584643826&perks=1718750057,1176939079
+dimwishlist:item=1584643826&perks=1718750057,-1693987055
+dimwishlist:item=1584643826&perks=-264006064,1176939079
+dimwishlist:item=1584643826&perks=-264006064,-1693987055
+
+//Tripwire Canary
+//notes:Aegis A Tier. Best With 'Ambush' Origin Trait.
+dimwishlist:item=-445522822&perks=1732988296,-1693987055
+dimwishlist:item=-445522822&perks=1718750057,-1693987055
+
+//Arsenic Bite-4B
+//notes:Aegis A Tier. Best With 'None' Origin Trait.
+dimwishlist:item=720351795&perks=1732988296,-1693987055
+
+//Under Your Skin
+//notes:Aegis A Tier. Best With 'Land Tank' Origin Trait.
+dimwishlist:item=232928045&perks=1718750057,-1693987055
+dimwishlist:item=232928045&perks=1718750057,1732988296
+
+//Raconteur
+//notes:Aegis B Tier. Best With 'Noble Deeds' Origin Trait.
+dimwishlist:item=45643573&perks=1718750057,-925330387
+dimwishlist:item=45643573&perks=1718750057,-1693987055
+dimwishlist:item=45643573&perks=-264006064,-925330387
+dimwishlist:item=45643573&perks=-264006064,-1693987055
+
+//Vengeful Whisper
+//notes:Aegis B Tier. Best With 'Sundering' Origin Trait.
+dimwishlist:item=839344841&perks=-1693987055,1845216242
+dimwishlist:item=839344841&perks=1718750057,1845216242
+dimwishlist:item=839344841&perks=-1273651019,1845216242
+
+//Point of the Stag
+//notes:Aegis B Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=888872889&perks=1718750057,1732988296
+
+//Wolftone Draw
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-822092153&perks=1718750057,1732988296
+dimwishlist:item=-822092153&perks=1718750057,586210096
+dimwishlist:item=-822092153&perks=-264006064,1732988296
+dimwishlist:item=-822092153&perks=-264006064,586210096
+
+//Fel Taradiddle
+//notes:Aegis B Tier. Best With 'Psychohack' Origin Trait.
+dimwishlist:item=1399109800&perks=1718750057,-1693987055
+dimwishlist:item=1399109800&perks=-264006064,-1693987055
+
+//Imperial Needle
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-834844799&perks=1718750057,586210096
+
+
+// HCs - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Word of Crota
-//notes:Aegis A Tier. Best With 'Cursed Thrall' Origin Trait.
+//notes:Aegis S Tier. Best With 'Cursed Thrall' Origin Trait.
 dimwishlist:item=120706239&perks=132891359,922778834
 dimwishlist:item=120706239&perks=1732988296,922778834
 
 //Posterity
-//notes:Aegis B Tier. Best With 'Bray Inheritance' Origin Trait.
+//notes:Aegis S Tier. Best With 'Bray Inheritance' Origin Trait.
 dimwishlist:item=-1013682221&perks=139007474,586210096
 dimwishlist:item=-1013682221&perks=139007474,1300954210
 
+//Sightline Survey
+//notes:Aegis S Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=-1944636776&perks=-1445106171,139007474
 
-// Pulses - 2 weapons (S + A + B Tiers (good quality))
+//Aureus Neutralizer
+//notes:Aegis S Tier. Best With 'Hakke Breach Armaments' Origin Trait.
+dimwishlist:item=-313047162&perks=-841433030,692451869
+dimwishlist:item=-313047162&perks=-841433030,1765748607
+dimwishlist:item=-313047162&perks=-841433030,978539025
+dimwishlist:item=-313047162&perks=2087376865,692451869
+dimwishlist:item=-313047162&perks=2087376865,1765748607
+dimwishlist:item=-313047162&perks=2087376865,978539025
+
+//Agape
+//notes:Aegis S Tier. Best With 'Exhaustive Research' Origin Trait.
+dimwishlist:item=-170604956&perks=-105455433,1176939079
+dimwishlist:item=-170604956&perks=-105455433,890589507
+dimwishlist:item=-170604956&perks=-105455433,1170256448
+dimwishlist:item=-170604956&perks=1501488052,1176939079
+dimwishlist:item=-170604956&perks=1501488052,890589507
+dimwishlist:item=-170604956&perks=1501488052,1170256448
+
+//Maahes HC4
+//notes:Aegis S Tier. Best With 'Omolon Fluid Dynamics' Origin Trait.
+dimwishlist:item=1246793994&perks=132891359,922778834
+dimwishlist:item=1246793994&perks=132891359,1732988296
+dimwishlist:item=1246793994&perks=-1445106171,922778834
+dimwishlist:item=1246793994&perks=-1445106171,1732988296
+
+//Exalted Truth
+//notes:Aegis A Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=548809020&perks=922778834,132891359
+dimwishlist:item=548809020&perks=922778834,1314569399
+dimwishlist:item=548809020&perks=922778834,527769018
+
+//Unloved
+//notes:Aegis A Tier. Best With 'Subjugation' Origin Trait.
+dimwishlist:item=-1809085426&perks=442434790,-1272766419
+dimwishlist:item=-1809085426&perks=442434790,586210096
+dimwishlist:item=-1809085426&perks=1732988296,-1272766419
+dimwishlist:item=-1809085426&perks=1732988296,586210096
+
+//Ancient Gospel
+//notes:Aegis A Tier. Best With 'Photoinhibition' Origin Trait.
+dimwishlist:item=963574173&perks=922778834,18293965
+
+//Zaouli's Bane
+//notes:Aegis A Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=431721920&perks=18293965,1176939079
+dimwishlist:item=431721920&perks=18293965,1314569399
+
+//Midnight Coup
+//notes:Aegis A Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=1128225405&perks=890589507,1727533409
+dimwishlist:item=1128225405&perks=890589507,586210096
+dimwishlist:item=1128225405&perks=890589507,1314569399
+dimwishlist:item=1128225405&perks=-264006064,1727533409
+dimwishlist:item=1128225405&perks=-264006064,586210096
+dimwishlist:item=1128225405&perks=-264006064,1314569399
+dimwishlist:item=1128225405&perks=18293965,1727533409
+dimwishlist:item=1128225405&perks=18293965,586210096
+dimwishlist:item=1128225405&perks=18293965,1314569399
+
+//Fatebringer
+//notes:Aegis A Tier. Best With 'Timelost Magazine' Origin Trait.
+dimwishlist:item=-110799086&perks=18293965,890589507
+dimwishlist:item=-110799086&perks=18293965,1314569399
+dimwishlist:item=-110799086&perks=18293965,586210096
+dimwishlist:item=-110799086&perks=1727533409,890589507
+dimwishlist:item=-110799086&perks=1727533409,1314569399
+dimwishlist:item=-110799086&perks=1727533409,586210096
+
+//Solemn Remembrance
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-178448714&perks=-925330387,890589507
+dimwishlist:item=-178448714&perks=-925330387,1782880663
+
+//Luna's Howl
+//notes:Aegis B Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=153979396&perks=-105455433,1176939079
+dimwishlist:item=153979396&perks=-1445106171,1176939079
+
+//Warden's Law
+//notes:Aegis B Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=1821529912&perks=1199262059,-841433030
+dimwishlist:item=1821529912&perks=1199262059,586210096
+dimwishlist:item=1821529912&perks=-1445106171,-841433030
+dimwishlist:item=1821529912&perks=-1445106171,586210096
+
+//Nation of Beasts
+//notes:Aegis B Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=654370424&perks=1732988296,139007474
+dimwishlist:item=654370424&perks=1732988296,18293965
+dimwishlist:item=654370424&perks=1134041288,139007474
+dimwishlist:item=654370424&perks=1134041288,18293965
+
+//Phoneutria Fera
+//notes:Aegis B Tier. Best With 'Tenacity' Origin Trait.
+dimwishlist:item=-490724503&perks=247254824,1176939079
+dimwishlist:item=-490724503&perks=247254824,1765748607
+dimwishlist:item=-490724503&perks=247254824,499572987
+dimwishlist:item=-490724503&perks=1938173835,1176939079
+dimwishlist:item=-490724503&perks=1938173835,1765748607
+dimwishlist:item=-490724503&perks=1938173835,499572987
+
+//Yesterday's Question
+//notes:Aegis B Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=-1994824184&perks=1732988296,139007474
+dimwishlist:item=-1994824184&perks=1732988296,-841433030
+dimwishlist:item=-1994824184&perks=442434790,139007474
+dimwishlist:item=-1994824184&perks=442434790,-841433030
+
+
+// Pulses - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Gridskipper
-//notes:Aegis A Tier. Best With 'Splicer Surge' Origin Trait.
+//notes:Aegis S Tier. Best With 'Splicer Surge' Origin Trait.
 dimwishlist:item=1621558458&perks=132891359,922778834
 dimwishlist:item=1621558458&perks=1199262059,922778834
 
 //Joxer's Longsword
-//notes:Aegis B Tier. Best With 'One Quiet Moment' Origin Trait.
+//notes:Aegis S Tier. Best With 'One Quiet Moment' Origin Trait.
 dimwishlist:item=157601190&perks=132891359,922778834
 dimwishlist:item=157601190&perks=132891359,527769018
 dimwishlist:item=157601190&perks=1732988296,922778834
@@ -340,15 +2001,126 @@ dimwishlist:item=157601190&perks=1732988296,527769018
 dimwishlist:item=157601190&perks=1199262059,922778834
 dimwishlist:item=157601190&perks=1199262059,527769018
 
+//Claws of the Wolf
+//notes:Aegis S Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=1505862304&perks=132891359,922778834
+dimwishlist:item=1505862304&perks=132891359,63549071
 
-// Scouts - 2 weapons (S + A + B Tiers (good quality))
+//Vantage Point
+//notes:Aegis S Tier. Best With 'Dark Ether Reaper' Origin Trait.
+dimwishlist:item=-464025334&perks=1134041288,619868206
+
+//Oversoul Edict
+//notes:Aegis S Tier. Best With 'Cursed Thrall' Origin Trait.
+dimwishlist:item=1098171824&perks=1134041288,139007474
+dimwishlist:item=1098171824&perks=1199262059,139007474
+
+//Nullify
+//notes:Aegis S Tier. Best With 'Collective Purpose' Origin Trait.
+dimwishlist:item=859869931&perks=890589507,1176939079
+dimwishlist:item=859869931&perks=890589507,-339046639
+dimwishlist:item=859869931&perks=890589507,63549071
+dimwishlist:item=859869931&perks=-105455433,1176939079
+dimwishlist:item=859869931&perks=-105455433,-339046639
+dimwishlist:item=859869931&perks=-105455433,63549071
+dimwishlist:item=859869931&perks=1199262059,1176939079
+dimwishlist:item=859869931&perks=1199262059,-339046639
+dimwishlist:item=859869931&perks=1199262059,63549071
+
+//Corrasion
+//notes:Aegis A Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=2126178511&perks=1134041288,139007474
+dimwishlist:item=2126178511&perks=-1445106171,139007474
+
+//Elsie's Rifle
+//notes:Aegis A Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=-443791270&perks=132891359,922778834
+dimwishlist:item=-443791270&perks=132891359,586210096
+dimwishlist:item=-443791270&perks=1501488052,922778834
+dimwishlist:item=-443791270&perks=1501488052,586210096
+dimwishlist:item=-443791270&perks=1772095958,922778834
+dimwishlist:item=-443791270&perks=1772095958,586210096
+
+//Jurassic Green
+//notes:Aegis A Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=689294985&perks=-105455433,1176939079
+dimwishlist:item=689294985&perks=1772095958,1176939079
+
+//Darkest Before
+//notes:Aegis A Tier. Best With 'Crossing Over' Origin Trait.
+dimwishlist:item=435821040&perks=-105455433,1176939079
+dimwishlist:item=435821040&perks=63549071,1176939079
+
+//Adhortative
+//notes:Aegis A Tier. Best With 'Nano-Munitions' Origin Trait.
+dimwishlist:item=1167153950&perks=-105455433,1176939079
+dimwishlist:item=1167153950&perks=63549071,1176939079
+dimwishlist:item=1167153950&perks=-264006064,1176939079
+
+//Cruel Mercy
+//notes:Aegis A Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=233635202&perks=1732988296,-20743621
+dimwishlist:item=233635202&perks=1732988296,586210096
+dimwishlist:item=233635202&perks=1134041288,-20743621
+dimwishlist:item=233635202&perks=1134041288,586210096
+dimwishlist:item=233635202&perks=1199262059,-20743621
+dimwishlist:item=233635202&perks=1199262059,586210096
+
+//Blast Furnace
+//notes:Aegis B Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=-451489984&perks=1727533409,890589507
+dimwishlist:item=-451489984&perks=1727533409,1314569399
+dimwishlist:item=-451489984&perks=1727533409,586210096
+dimwishlist:item=-451489984&perks=-264006064,890589507
+dimwishlist:item=-451489984&perks=-264006064,1314569399
+dimwishlist:item=-451489984&perks=-264006064,586210096
+
+//Stars in Shadow
+//notes:Aegis B Tier. Best With 'Wild Card' Origin Trait.
+dimwishlist:item=2050789284&perks=-105455433,1176939079
+dimwishlist:item=2050789284&perks=-105455433,492132395
+dimwishlist:item=2050789284&perks=442434790,1176939079
+dimwishlist:item=2050789284&perks=442434790,492132395
+dimwishlist:item=2050789284&perks=420666599,1176939079
+dimwishlist:item=2050789284&perks=420666599,492132395
+
+//BxR-55 Battler
+//notes:Aegis B Tier. Best With 'Hot Swap' Origin Trait.
+dimwishlist:item=-1586161197&perks=1199262059,1176939079
+dimwishlist:item=-1586161197&perks=1199262059,1856708211
+dimwishlist:item=-1586161197&perks=1207795635,1176939079
+dimwishlist:item=-1586161197&perks=1207795635,1856708211
+dimwishlist:item=-1586161197&perks=2039655992,1176939079
+dimwishlist:item=-1586161197&perks=2039655992,1856708211
+
+//Chattering Bone
+//notes:Aegis B Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=568515759&perks=442434790,1727533409
+dimwishlist:item=568515759&perks=-45290624,1727533409
+
+//Bygones
+//notes:Aegis B Tier. Best With 'Gun and Run' Origin Trait.
+dimwishlist:item=-1582722555&perks=63549071,1727533409
+dimwishlist:item=-1582722555&perks=63549071,890589507
+dimwishlist:item=-1582722555&perks=-264006064,1727533409
+dimwishlist:item=-1582722555&perks=-264006064,890589507
+dimwishlist:item=-1582722555&perks=1199262059,1727533409
+dimwishlist:item=-1582722555&perks=1199262059,890589507
+
+//Battle Scar
+//notes:Aegis B Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=2099894368&perks=-264006064,1727533409
+dimwishlist:item=2099894368&perks=729428564,1727533409
+
+
+// Scouts - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Unworthy
-//notes:Aegis A Tier. Best With 'Subjugation' Origin Trait.
+//notes:Aegis S Tier. Best With 'Subjugation' Origin Trait.
 dimwishlist:item=-2068808826&perks=890589507,139007474
 
 //Aisha's Embrace
-//notes:Aegis B Tier. Best With 'Roar of Battle' Origin Trait.
+//notes:Aegis S Tier. Best With 'Roar of Battle' Origin Trait.
 dimwishlist:item=-585599154&perks=527769018,922778834
 dimwishlist:item=-585599154&perks=527769018,-164231382
 dimwishlist:item=-585599154&perks=527769018,-1262906369
@@ -359,11 +2131,142 @@ dimwishlist:item=-585599154&perks=-264006064,922778834
 dimwishlist:item=-585599154&perks=-264006064,-164231382
 dimwishlist:item=-585599154&perks=-264006064,-1262906369
 
+//Trustee
+//notes:Aegis S Tier. Best With 'Bray Inheritance' Origin Trait.
+dimwishlist:item=1392919471&perks=442434790,1176939079
+dimwishlist:item=1392919471&perks=2083620761,1176939079
 
-// Sidearms - 2 weapons (S + A + B Tiers (good quality))
+//Vouchsafe
+//notes:Aegis S Tier. Best With 'Advanced Reflexes' Origin Trait.
+dimwishlist:item=355922321&perks=132891359,922778834
+dimwishlist:item=355922321&perks=132891359,1732988296
+dimwishlist:item=355922321&perks=132891359,18293965
+dimwishlist:item=355922321&perks=442434790,922778834
+dimwishlist:item=355922321&perks=442434790,1732988296
+dimwishlist:item=355922321&perks=442434790,18293965
+
+//Hung Jury SR4
+//notes:Aegis S Tier. Best With 'Indomitability' Origin Trait.
+dimwishlist:item=1453235079&perks=1727533409,890589507
+dimwishlist:item=1453235079&perks=1727533409,18293965
+dimwishlist:item=1453235079&perks=1727533409,1314569399
+dimwishlist:item=1453235079&perks=-264006064,890589507
+dimwishlist:item=1453235079&perks=-264006064,18293965
+dimwishlist:item=1453235079&perks=-264006064,1314569399
+dimwishlist:item=1453235079&perks=-1445106171,890589507
+dimwishlist:item=1453235079&perks=-1445106171,18293965
+dimwishlist:item=1453235079&perks=-1445106171,1314569399
+
+//Vision of Confluence
+//notes:Aegis S Tier. Best With 'Timelost Magazine' Origin Trait.
+dimwishlist:item=-850279078&perks=1176939079,890589507
+dimwishlist:item=-850279078&perks=1176939079,18293965
+dimwishlist:item=-850279078&perks=1176939079,586210096
+dimwishlist:item=-850279078&perks=-105455433,890589507
+dimwishlist:item=-850279078&perks=-105455433,18293965
+dimwishlist:item=-850279078&perks=-105455433,586210096
+dimwishlist:item=-850279078&perks=1501488052,890589507
+dimwishlist:item=-850279078&perks=1501488052,18293965
+dimwishlist:item=-850279078&perks=1501488052,586210096
+
+//Randy's Throwing Knife
+//notes:Aegis A Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=-759224337&perks=442434790,1727533409
+dimwishlist:item=-759224337&perks=-508533305,1727533409
+
+//Patron of Lost Causes
+//notes:Aegis A Tier. Best With 'Cast No Shadows' Origin Trait.
+dimwishlist:item=-1571725449&perks=442434790,1727533409
+dimwishlist:item=-1571725449&perks=442434790,18293965
+dimwishlist:item=-1571725449&perks=2048357593,1727533409
+dimwishlist:item=-1571725449&perks=2048357593,18293965
+
+//Nature Reclaimed
+//notes:Aegis A Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=-1655045905&perks=-105455433,1176939079
+dimwishlist:item=-1655045905&perks=-105455433,18293965
+dimwishlist:item=-1655045905&perks=442434790,1176939079
+dimwishlist:item=-1655045905&perks=442434790,18293965
+dimwishlist:item=-1655045905&perks=-264006064,1176939079
+dimwishlist:item=-1655045905&perks=-264006064,18293965
+
+//Tarnished Mettle
+//notes:Aegis A Tier. Best With 'Right Hook' Origin Trait.
+dimwishlist:item=-2076397552&perks=442434790,139007474
+dimwishlist:item=-2076397552&perks=442434790,18293965
+dimwishlist:item=-2076397552&perks=-264006064,139007474
+dimwishlist:item=-2076397552&perks=-264006064,18293965
+dimwishlist:item=-2076397552&perks=1199262059,139007474
+dimwishlist:item=-2076397552&perks=1199262059,18293965
+
+//Doom of Chelchis
+//notes:Aegis A Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=1937552980&perks=890589507,586210096
+dimwishlist:item=1937552980&perks=890589507,1314569399
+dimwishlist:item=1937552980&perks=890589507,1732988296
+dimwishlist:item=1937552980&perks=18293965,586210096
+dimwishlist:item=1937552980&perks=18293965,1314569399
+dimwishlist:item=1937552980&perks=18293965,1732988296
+
+//Timeworn Wayfarer
+//notes:Aegis A Tier. Best With 'Radiolaria Transposer' Origin Trait.
+dimwishlist:item=1058098236&perks=-105455433,1176939079
+dimwishlist:item=1058098236&perks=-264006064,1176939079
+dimwishlist:item=1058098236&perks=1284715612,1176939079
+
+//Imperative
+//notes:Aegis B Tier. Best With 'Nano-Munitions' Origin Trait.
+dimwishlist:item=2045811635&perks=1199262059,1727533409
+dimwishlist:item=2045811635&perks=1199262059,18293965
+dimwishlist:item=2045811635&perks=442434790,1727533409
+dimwishlist:item=2045811635&perks=442434790,18293965
+
+//Brya's Love
+//notes:Aegis B Tier. Best With 'Head Rush' Origin Trait.
+dimwishlist:item=-1515145988&perks=1772095958,922778834
+dimwishlist:item=-1515145988&perks=1772095958,18293965
+dimwishlist:item=-1515145988&perks=-264006064,922778834
+dimwishlist:item=-1515145988&perks=-264006064,18293965
+dimwishlist:item=-1515145988&perks=442434790,922778834
+dimwishlist:item=-1515145988&perks=442434790,18293965
+
+//Transfiguration
+//notes:Aegis B Tier. Best With 'Explosive Pact' Origin Trait.
+dimwishlist:item=-409708156&perks=1199262059,1727533409
+dimwishlist:item=-409708156&perks=1199262059,18293965
+dimwishlist:item=-409708156&perks=442434790,1727533409
+dimwishlist:item=-409708156&perks=442434790,18293965
+dimwishlist:item=-409708156&perks=1501488052,1727533409
+dimwishlist:item=-409708156&perks=1501488052,18293965
+
+//Sublimation
+//notes:Aegis B Tier. Best With 'Exhaustive Research' Origin Trait.
+dimwishlist:item=1674692344&perks=1134041288,139007474
+dimwishlist:item=1674692344&perks=1134041288,18293965
+dimwishlist:item=1674692344&perks=1134041288,-20743621
+dimwishlist:item=1674692344&perks=420666599,139007474
+dimwishlist:item=1674692344&perks=420666599,18293965
+dimwishlist:item=1674692344&perks=420666599,-20743621
+dimwishlist:item=1674692344&perks=-264006064,139007474
+dimwishlist:item=1674692344&perks=-264006064,18293965
+dimwishlist:item=1674692344&perks=-264006064,-20743621
+
+//Nameless Midnight
+//notes:Aegis B Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=1960218487&perks=-166789712,1727533409
+dimwishlist:item=1960218487&perks=-166789712,18293965
+dimwishlist:item=1960218487&perks=729428564,1727533409
+dimwishlist:item=1960218487&perks=729428564,18293965
+
+//Jararaca-3SR
+//notes:Aegis B Tier. Best With 'Veist Stinger' Origin Trait.
+dimwishlist:item=1851521408&perks=442434790,-925330387
+
+
+// Sidearms - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Insurmountable
-//notes:Aegis A Tier. Best With 'Dark Ether Reaper' Origin Trait.
+//notes:Aegis S Tier. Best With 'Dark Ether Reaper' Origin Trait.
 dimwishlist:item=414045521&perks=132891359,922778834
 dimwishlist:item=414045521&perks=132891359,499572987
 dimwishlist:item=414045521&perks=63549071,922778834
@@ -372,7 +2275,7 @@ dimwishlist:item=414045521&perks=1199262059,922778834
 dimwishlist:item=414045521&perks=1199262059,499572987
 
 //Heliocentric QSc
-//notes:Aegis B Tier. Best With 'Nadir Focus' Origin Trait.
+//notes:Aegis S Tier. Best With 'Nadir Focus' Origin Trait.
 dimwishlist:item=-296886767&perks=-105455433,1176939079
 dimwishlist:item=-296886767&perks=-105455433,586210096
 dimwishlist:item=-296886767&perks=-105455433,499572987
@@ -380,17 +2283,249 @@ dimwishlist:item=-296886767&perks=1199262059,1176939079
 dimwishlist:item=-296886767&perks=1199262059,586210096
 dimwishlist:item=-296886767&perks=1199262059,499572987
 
+//Forgiveness
+//notes:Aegis S Tier. Best With 'Roar of Battle' Origin Trait.
+dimwishlist:item=1552443158&perks=139007474,-164231382
+dimwishlist:item=1552443158&perks=139007474,-45290624
+dimwishlist:item=1552443158&perks=139007474,499572987
 
-// SMGs - 2 weapons (S + A + B Tiers (good quality))
+//Division
+//notes:Aegis S Tier. Best With 'Runneth Over' Origin Trait.
+dimwishlist:item=-1302503727&perks=1134041288,139007474
+dimwishlist:item=-1302503727&perks=1134041288,499572987
+dimwishlist:item=-1302503727&perks=2039655992,139007474
+dimwishlist:item=-1302503727&perks=2039655992,499572987
+dimwishlist:item=-1302503727&perks=2087376865,139007474
+dimwishlist:item=-1302503727&perks=2087376865,499572987
+
+//Anonymous Autumn
+//notes:Aegis S Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=1051949956&perks=1134041288,139007474
+dimwishlist:item=1051949956&perks=1199262059,139007474
+
+//Brigand's Law
+//notes:Aegis S Tier. Best With 'Right Hook' Origin Trait.
+dimwishlist:item=1298815317&perks=247254824,139007474
+dimwishlist:item=1298815317&perks=247254824,531639838
+dimwishlist:item=1298815317&perks=1625457756,139007474
+dimwishlist:item=1298815317&perks=1625457756,531639838
+dimwishlist:item=1298815317&perks=2039655992,139007474
+dimwishlist:item=1298815317&perks=2039655992,531639838
+
+//Drang (Baroque)
+//notes:Aegis A Tier. Best With 'To Excess' Origin Trait.
+dimwishlist:item=502356570&perks=1706638886,1176939079
+dimwishlist:item=502356570&perks=1706638886,531639838
+dimwishlist:item=502356570&perks=1254533267,1176939079
+dimwishlist:item=502356570&perks=1254533267,531639838
+
+//Buzzard
+//notes:Aegis A Tier. Best With 'Stunning Recovery' Origin Trait.
+dimwishlist:item=805677041&perks=-1992712218,1727533409
+dimwishlist:item=805677041&perks=-158280276,1727533409
+
+//Liminal Vigil
+RotN version
+//notes:Aegis A Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=1460079227&perks=-925330387,-164231382
+dimwishlist:item=1460079227&perks=-925330387,1782880663
+dimwishlist:item=1460079227&perks=-925330387,-45290624
+dimwishlist:item=1460079227&perks=63549071,-164231382
+dimwishlist:item=1460079227&perks=63549071,1782880663
+dimwishlist:item=1460079227&perks=63549071,-45290624
+dimwishlist:item=1460079227&perks=-1445106171,-164231382
+dimwishlist:item=1460079227&perks=-1445106171,1782880663
+dimwishlist:item=1460079227&perks=-1445106171,-45290624
+
+//Breachlight
+//notes:Aegis A Tier. Best With 'Cast No Shadows' Origin Trait.
+dimwishlist:item=1289997971&perks=1199262059,1845216242
+dimwishlist:item=1289997971&perks=1199262059,531639838
+dimwishlist:item=1289997971&perks=2039655992,1845216242
+dimwishlist:item=1289997971&perks=2039655992,531639838
+dimwishlist:item=1289997971&perks=-1273651019,1845216242
+dimwishlist:item=1289997971&perks=-1273651019,531639838
+
+//Peacebond
+//notes:Aegis A Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=829330711&perks=-925330387,1782880663
+dimwishlist:item=829330711&perks=-925330387,586210096
+dimwishlist:item=829330711&perks=-925330387,584450563
+
+//Mykel's Reverence
+//notes:Aegis A Tier. Best With 'Harmonic Resonance' Origin Trait.
+dimwishlist:item=231031173&perks=1501488052,1845216242
+dimwishlist:item=231031173&perks=1501488052,586210096
+dimwishlist:item=231031173&perks=1501488052,531639838
+dimwishlist:item=231031173&perks=2039655992,1845216242
+dimwishlist:item=231031173&perks=2039655992,586210096
+dimwishlist:item=231031173&perks=2039655992,531639838
+
+//Liminal Vigil
+//notes:Aegis B Tier. Best With 'Tex Balanced Stock' Origin Trait.
+dimwishlist:item=1460079227&perks=-925330387,-45290624
+dimwishlist:item=1460079227&perks=-925330387,499572987
+dimwishlist:item=1460079227&perks=-925330387,584450563
+
+//Faustus Decline
+//notes:Aegis B Tier. Best With 'Bray Legacy' Origin Trait.
+dimwishlist:item=1663482635&perks=1199262059,-925330387
+dimwishlist:item=1663482635&perks=1782880663,-925330387
+
+//Senuna SI6
+//notes:Aegis B Tier. Best With 'Omolon Fluid Dynamics' Origin Trait.
+dimwishlist:item=5159537&perks=2087376865,-925330387
+dimwishlist:item=5159537&perks=1625457756,-925330387
+
+//Allied Demand
+//notes:Aegis B Tier. Best With 'Field-Tested' Origin Trait.
+dimwishlist:item=1532276803&perks=442434790,586210096
+dimwishlist:item=1532276803&perks=442434790,395003715
+dimwishlist:item=1532276803&perks=1207795635,586210096
+dimwishlist:item=1532276803&perks=1207795635,395003715
+
+//Punching Out
+//notes:Aegis B Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=378498222&perks=247254824,499572987
+dimwishlist:item=378498222&perks=247254824,586210096
+dimwishlist:item=378498222&perks=247254824,531639838
+dimwishlist:item=378498222&perks=2087376865,499572987
+dimwishlist:item=378498222&perks=2087376865,586210096
+dimwishlist:item=378498222&perks=2087376865,531639838
+
+//Seventh Seraph SI-2
+//notes:Aegis B Tier. Best With 'None' Origin Trait.
+dimwishlist:item=-357100908&perks=1199262059,1732988296
+dimwishlist:item=-357100908&perks=1199262059,499572987
+dimwishlist:item=-357100908&perks=247254824,1732988296
+dimwishlist:item=-357100908&perks=247254824,499572987
+
+
+// SMGs - 18 weapons (S + A + B Tiers (good quality))
 // Generated from Aegis's Endgame Analysis
 //Multimach CCX
-//notes:Aegis A Tier. Best With 'Field-Tested' Origin Trait.
+//notes:Aegis S Tier. Best With 'Field-Tested' Origin Trait.
 dimwishlist:item=-29783982&perks=63549071,1727533409
 dimwishlist:item=-29783982&perks=63549071,586210096
 
 //The Recluse
-//notes:Aegis B Tier. Best With 'Indomitability' Origin Trait.
+//notes:Aegis S Tier. Best With 'Indomitability' Origin Trait.
 dimwishlist:item=1050806815&perks=132891359,922778834
 dimwishlist:item=1050806815&perks=132891359,499572987
 dimwishlist:item=1050806815&perks=-1445106171,922778834
 dimwishlist:item=1050806815&perks=-1445106171,499572987
+
+//The Title
+//notes:Aegis S Tier. Best With 'Hakke Breach Armaments' Origin Trait.
+dimwishlist:item=655712834&perks=132891359,922778834
+dimwishlist:item=655712834&perks=132891359,499572987
+dimwishlist:item=655712834&perks=247254824,922778834
+dimwishlist:item=655712834&perks=247254824,499572987
+
+//Yeartide Apex
+//notes:Aegis S Tier. Best With 'Dream Work' Origin Trait.
+dimwishlist:item=-1001759469&perks=-105455433,1176939079
+dimwishlist:item=-1001759469&perks=-105455433,-339046639
+dimwishlist:item=-1001759469&perks=-105455433,492132395
+dimwishlist:item=-1001759469&perks=63549071,1176939079
+dimwishlist:item=-1001759469&perks=63549071,-339046639
+dimwishlist:item=-1001759469&perks=63549071,492132395
+dimwishlist:item=-1001759469&perks=1199262059,1176939079
+dimwishlist:item=-1001759469&perks=1199262059,-339046639
+dimwishlist:item=-1001759469&perks=1199262059,492132395
+
+//Imminence
+//notes:Aegis S Tier. Best With 'Collective Purpose' Origin Trait.
+dimwishlist:item=1258168956&perks=1199262059,890589507
+dimwishlist:item=1258168956&perks=1199262059,-339046639
+dimwishlist:item=1258168956&perks=1199262059,1845216242
+dimwishlist:item=1258168956&perks=-1273651019,890589507
+dimwishlist:item=1258168956&perks=-1273651019,-339046639
+dimwishlist:item=1258168956&perks=-1273651019,1845216242
+dimwishlist:item=1258168956&perks=-1445106171,890589507
+dimwishlist:item=1258168956&perks=-1445106171,-339046639
+dimwishlist:item=1258168956&perks=-1445106171,1845216242
+
+//No Survivors
+RotN version
+//notes:Aegis S Tier. Best With 'Gravity Well' Origin Trait.
+dimwishlist:item=-66818027&perks=-105455433,1176939079
+dimwishlist:item=-66818027&perks=63549071,1176939079
+dimwishlist:item=-66818027&perks=1199262059,1176939079
+
+//Antedate
+//notes:Aegis A Tier. Best With 'Frame of Reference' Origin Trait.
+dimwishlist:item=1435808083&perks=1732988296,619868206
+dimwishlist:item=1435808083&perks=1732988296,1981262976
+dimwishlist:item=1435808083&perks=1732988296,-164231382
+dimwishlist:item=1435808083&perks=1501488052,619868206
+dimwishlist:item=1435808083&perks=1501488052,1981262976
+dimwishlist:item=1435808083&perks=1501488052,-164231382
+dimwishlist:item=1435808083&perks=-20743621,619868206
+dimwishlist:item=1435808083&perks=-20743621,1981262976
+dimwishlist:item=1435808083&perks=-20743621,-164231382
+
+//Shayura's Wrath
+//notes:Aegis A Tier. Best With 'One Quiet Moment' Origin Trait.
+dimwishlist:item=2022294213&perks=132891359,922778834
+dimwishlist:item=2022294213&perks=-508533305,922778834
+
+//Noxious Vetiver
+//notes:Aegis A Tier. Best With 'Dark Ether Reaper' Origin Trait.
+dimwishlist:item=825495813&perks=63549071,619868206
+dimwishlist:item=825495813&perks=1772095958,619868206
+dimwishlist:item=825495813&perks=2039655992,619868206
+
+//Subjunctive
+//notes:Aegis A Tier. Best With 'Nano-Munitions' Origin Trait.
+dimwishlist:item=1447836603&perks=247254824,139007474
+dimwishlist:item=1447836603&perks=247254824,63549071
+dimwishlist:item=1447836603&perks=1301546162,139007474
+dimwishlist:item=1447836603&perks=1301546162,63549071
+dimwishlist:item=1447836603&perks=-264006064,139007474
+dimwishlist:item=1447836603&perks=-264006064,63549071
+
+//IKELOS_SMG_V1.0.3
+//notes:Aegis A Tier. Best With 'Rasputin's Arsenal' Origin Trait.
+dimwishlist:item=-2145283996&perks=247254824,139007474
+dimwishlist:item=-2145283996&perks=247254824,499572987
+dimwishlist:item=-2145283996&perks=-264006064,139007474
+dimwishlist:item=-2145283996&perks=-264006064,499572987
+dimwishlist:item=-2145283996&perks=1625457756,139007474
+dimwishlist:item=-2145283996&perks=1625457756,499572987
+
+//No Survivors
+//notes:Aegis A Tier. Best With 'Restoration Ritual' Origin Trait.
+dimwishlist:item=-66818027&perks=1199262059,1176939079
+
+//CALUS Mini-Tool
+//notes:Aegis B Tier. Best With 'To Excess' Origin Trait.
+dimwishlist:item=174192097&perks=247254824,1176939079
+dimwishlist:item=174192097&perks=247254824,499572987
+dimwishlist:item=174192097&perks=2087376865,1176939079
+dimwishlist:item=174192097&perks=2087376865,499572987
+
+//The Hero's Burden
+//notes:Aegis B Tier. Best With 'Skulking Wolf' Origin Trait.
+dimwishlist:item=1865351684&perks=1625457756,922778834
+
+//Bug-Out Bag
+//notes:Aegis B Tier. Best With 'Disaster Plan' Origin Trait.
+dimwishlist:item=-1462327786&perks=247254824,1176939079
+
+//The Showrunner
+//notes:Aegis B Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=1999754402&perks=2087376865,1727533409
+dimwishlist:item=1999754402&perks=2087376865,531639838
+dimwishlist:item=1999754402&perks=1118505854,1727533409
+dimwishlist:item=1999754402&perks=1118505854,531639838
+
+//Perfect Pitch
+//notes:Aegis B Tier. Best With 'Vanguard's Vindication' Origin Trait.
+dimwishlist:item=-1018662792&perks=767026723,1176939079
+dimwishlist:item=-1018662792&perks=767026723,-1683408716
+
+//Adjudicator
+//notes:Aegis B Tier. Best With 'Crossing Over' Origin Trait.
+dimwishlist:item=2094938673&perks=247254824,1727533409
+dimwishlist:item=2094938673&perks=247254824,-1683408716
